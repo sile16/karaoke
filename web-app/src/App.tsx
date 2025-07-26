@@ -5,6 +5,7 @@ import { ControlPanel } from './components/ControlPanel';
 import { ProgressBar } from './components/ProgressBar';
 import { WordTimingDisplay } from './components/WordTimingDisplay';
 import { DownloadManager } from './components/DownloadManager';
+import { SongManager } from './components/SongManager';
 import './App.css';
 
 // Load the smart-processed lyrics data (confidence-based ElevenLabs)
@@ -64,7 +65,7 @@ function App() {
   const [viewMode, setViewMode] = useState<'karaoke' | 'syllables' | 'simple'>('karaoke');
   const [showTranslations, setShowTranslations] = useState(true);
   const [lyricsData, setLyricsData] = useState(sampleLyricsData);
-  const [activeTab, setActiveTab] = useState<'lyrics' | 'downloads'>('lyrics');
+  const [activeTab, setActiveTab] = useState<'lyrics' | 'downloads' | 'manage'>('lyrics');
   const audioPlayerRef = React.useRef<any>(null);
 
   // Load the actual lyrics data
@@ -112,13 +113,19 @@ function App() {
             className={`tab-button ${activeTab === 'lyrics' ? 'active' : ''}`}
             onClick={() => setActiveTab('lyrics')}
           >
-            Lyrics Player
+            🎤 Karaoke Player
+          </button>
+          <button
+            className={`tab-button ${activeTab === 'manage' ? 'active' : ''}`}
+            onClick={() => setActiveTab('manage')}
+          >
+            🎵 Song Manager
           </button>
           <button
             className={`tab-button ${activeTab === 'downloads' ? 'active' : ''}`}
             onClick={() => setActiveTab('downloads')}
           >
-            Song Library
+            📁 Simple Library
           </button>
         </div>
       </header>
@@ -196,6 +203,10 @@ function App() {
               )}
             </div>
           </>
+        )}
+
+        {activeTab === 'manage' && (
+          <SongManager onSongSelect={handleSongSelect} />
         )}
 
         {activeTab === 'downloads' && (
