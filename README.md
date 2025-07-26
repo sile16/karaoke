@@ -78,10 +78,13 @@ A sophisticated web application for learning Turkish through synchronized song l
 7. **Start the web application**
    ```bash
    cd web-app
-   npm start
+   npm run dev
    ```
 
-8. **Open your browser** to `http://localhost:3000`
+8. **Open your browser** to `http://localhost:5173`
+
+### Development Note
+For development, always use `npm run dev` which runs the latest code with hot-reload. The `dist/` folder is only for production builds and is git-ignored to avoid confusion.
 
 ## 📁 Project Structure
 
