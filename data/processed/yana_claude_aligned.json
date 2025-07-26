@@ -1,0 +1,929 @@
+{
+  "metadata": {
+    "title": "Yana Yana",
+    "artists": [
+      "Semicenk",
+      "Reynmen"
+    ],
+    "duration": 142.46,
+    "language": "tr",
+    "alignment_method": "claude_intelligent",
+    "alignment_quality": 0,
+    "claude_method": "claude_code"
+  },
+  "segments": [
+    {
+      "id": "claude_aligned_001",
+      "text": "Çok kez unutulup gidinin ardından",
+      "start": 17.34,
+      "end": 26.879,
+      "confidence": 0.7956521739130434,
+      "alignment_method": "claude_code",
+      "original_transcription": "Yana yana sevdik bazen çok kez unutulup gidenin ardında ne?",
+      "words": [
+        {
+          "text": "Çok",
+          "start": 17.34,
+          "end": 19.248,
+          "confidence": 0.7956521739130434
+        },
+        {
+          "text": "kez",
+          "start": 19.248,
+          "end": 21.156,
+          "confidence": 0.7956521739130434
+        },
+        {
+          "text": "unutulup",
+          "start": 21.156,
+          "end": 23.063,
+          "confidence": 0.7956521739130434
+        },
+        {
+          "text": "gidinin",
+          "start": 23.063,
+          "end": 24.971,
+          "confidence": 0.7956521739130434
+        },
+        {
+          "text": "ardından",
+          "start": 24.971,
+          "end": 26.879,
+          "confidence": 0.7956521739130434
+        }
+      ]
+    },
+    {
+      "id": "claude_aligned_002",
+      "text": "Ne kar olan bir kul",
+      "start": 27.5,
+      "end": 29.1,
+      "confidence": 0.9,
+      "alignment_method": "claude_code",
+      "original_transcription": "Kahrolan bi kul.",
+      "words": [
+        {
+          "text": "Ne",
+          "start": 27.5,
+          "end": 27.82,
+          "confidence": 0.9
+        },
+        {
+          "text": "kar",
+          "start": 27.82,
+          "end": 28.14,
+          "confidence": 0.9
+        },
+        {
+          "text": "olan",
+          "start": 28.14,
+          "end": 28.46,
+          "confidence": 0.9
+        },
+        {
+          "text": "bir",
+          "start": 28.46,
+          "end": 28.78,
+          "confidence": 0.9
+        },
+        {
+          "text": "kul",
+          "start": 28.78,
+          "end": 29.1,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "id": "claude_aligned_003",
+      "text": "Varsa sözüme güven beni anla",
+      "start": 29.279,
+      "end": 31.979,
+      "confidence": 0.8659574468085106,
+      "alignment_method": "claude_code",
+      "original_transcription": "Varsa sözüme güven,",
+      "words": [
+        {
+          "text": "Varsa",
+          "start": 29.279,
+          "end": 29.819,
+          "confidence": 0.8659574468085106
+        },
+        {
+          "text": "sözüme",
+          "start": 29.819,
+          "end": 30.359,
+          "confidence": 0.8659574468085106
+        },
+        {
+          "text": "güven",
+          "start": 30.359,
+          "end": 30.899,
+          "confidence": 0.8659574468085106
+        },
+        {
+          "text": "beni",
+          "start": 30.899,
+          "end": 31.439,
+          "confidence": 0.8659574468085106
+        },
+        {
+          "text": "anla",
+          "start": 31.439,
+          "end": 31.979,
+          "confidence": 0.8659574468085106
+        }
+      ]
+    },
+    {
+      "id": "claude_aligned_005",
+      "text": "Zaten bana yazık olur",
+      "start": 32.319,
+      "end": 34.44,
+      "confidence": 0.6789473684210526,
+      "alignment_method": "claude_code",
+      "original_transcription": "beni anla n'olur.",
+      "words": [
+        {
+          "text": "Zaten",
+          "start": 32.319,
+          "end": 32.849,
+          "confidence": 0.6789473684210526
+        },
+        {
+          "text": "bana",
+          "start": 32.849,
+          "end": 33.379,
+          "confidence": 0.6789473684210526
+        },
+        {
+          "text": "yazık",
+          "start": 33.379,
+          "end": 33.91,
+          "confidence": 0.6789473684210526
+        },
+        {
+          "text": "olur",
+          "start": 33.91,
+          "end": 34.44,
+          "confidence": 0.6789473684210526
+        }
+      ]
+    },
+    {
+      "id": "claude_aligned_006",
+      "text": "Yazık olur",
+      "start": 34.759,
+      "end": 38.919,
+      "confidence": 0.5347826086956522,
+      "alignment_method": "claude_code",
+      "original_transcription": "Bozuksa ruhun zaten bana yazık olur.",
+      "words": [
+        {
+          "text": "Yazık",
+          "start": 34.759,
+          "end": 36.839,
+          "confidence": 0.5347826086956522
+        },
+        {
+          "text": "olur",
+          "start": 36.839,
+          "end": 38.919,
+          "confidence": 0.5347826086956522
+        }
+      ]
+    },
+    {
+      "id": "claude_aligned_010",
+      "text": "Yine aynı yerde kalıp gidersen yarım kalır",
+      "start": 38.919,
+      "end": 46.139,
+      "confidence": 0.5554455445544555,
+      "alignment_method": "claude_code",
+      "original_transcription": "Yana yana sevdik bazen çok kez unutulup gidenin ardında ne?",
+      "words": [
+        {
+          "text": "Yine",
+          "start": 38.919,
+          "end": 39.95,
+          "confidence": 0.5554455445544555
+        },
+        {
+          "text": "aynı",
+          "start": 39.95,
+          "end": 40.982,
+          "confidence": 0.5554455445544555
+        },
+        {
+          "text": "yerde",
+          "start": 40.982,
+          "end": 42.013,
+          "confidence": 0.5554455445544555
+        },
+        {
+          "text": "kalıp",
+          "start": 42.013,
+          "end": 43.045,
+          "confidence": 0.5554455445544555
+        },
+        {
+          "text": "gidersen",
+          "start": 43.045,
+          "end": 44.076,
+          "confidence": 0.5554455445544555
+        },
+        {
+          "text": "yarım",
+          "start": 44.076,
+          "end": 45.108,
+          "confidence": 0.5554455445544555
+        },
+        {
+          "text": "kalır",
+          "start": 45.108,
+          "end": 46.139,
+          "confidence": 0.5554455445544555
+        }
+      ]
+    },
+    {
+      "id": "claude_aligned_017",
+      "text": "Sabrım gerilir patlar bir anda",
+      "start": 46.7,
+      "end": 48.239,
+      "confidence": 0.4478260869565217,
+      "alignment_method": "claude_code",
+      "original_transcription": "Kahrolan bi kul.",
+      "words": [
+        {
+          "text": "Sabrım",
+          "start": 46.7,
+          "end": 47.008,
+          "confidence": 0.4478260869565217
+        },
+        {
+          "text": "gerilir",
+          "start": 47.008,
+          "end": 47.316,
+          "confidence": 0.4478260869565217
+        },
+        {
+          "text": "patlar",
+          "start": 47.316,
+          "end": 47.623,
+          "confidence": 0.4478260869565217
+        },
+        {
+          "text": "bir",
+          "start": 47.623,
+          "end": 47.931,
+          "confidence": 0.4478260869565217
+        },
+        {
+          "text": "anda",
+          "start": 47.931,
+          "end": 48.239,
+          "confidence": 0.4478260869565217
+        }
+      ]
+    },
+    {
+      "id": "claude_aligned_008",
+      "text": "Tattığın her sözün ve her günün",
+      "start": 48.5,
+      "end": 51.18,
+      "confidence": 0.48,
+      "alignment_method": "claude_code",
+      "original_transcription": "Varsa sözüme güven,",
+      "words": [
+        {
+          "text": "Tattığın",
+          "start": 48.5,
+          "end": 48.947,
+          "confidence": 0.48
+        },
+        {
+          "text": "her",
+          "start": 48.947,
+          "end": 49.393,
+          "confidence": 0.48
+        },
+        {
+          "text": "sözün",
+          "start": 49.393,
+          "end": 49.84,
+          "confidence": 0.48
+        },
+        {
+          "text": "ve",
+          "start": 49.84,
+          "end": 50.287,
+          "confidence": 0.48
+        },
+        {
+          "text": "her",
+          "start": 50.287,
+          "end": 50.733,
+          "confidence": 0.48
+        },
+        {
+          "text": "günün",
+          "start": 50.733,
+          "end": 51.18,
+          "confidence": 0.48
+        }
+      ]
+    },
+    {
+      "id": "claude_aligned_016",
+      "text": "Benden bu kadar zor olsa da şartlar",
+      "start": 51.52,
+      "end": 53.659,
+      "confidence": 0.4076923076923077,
+      "alignment_method": "claude_code",
+      "original_transcription": "beni anla n'olur.",
+      "words": [
+        {
+          "text": "Benden",
+          "start": 51.52,
+          "end": 51.826,
+          "confidence": 0.4076923076923077
+        },
+        {
+          "text": "bu",
+          "start": 51.826,
+          "end": 52.131,
+          "confidence": 0.4076923076923077
+        },
+        {
+          "text": "kadar",
+          "start": 52.131,
+          "end": 52.437,
+          "confidence": 0.4076923076923077
+        },
+        {
+          "text": "zor",
+          "start": 52.437,
+          "end": 52.742,
+          "confidence": 0.4076923076923077
+        },
+        {
+          "text": "olsa",
+          "start": 52.742,
+          "end": 53.048,
+          "confidence": 0.4076923076923077
+        },
+        {
+          "text": "da",
+          "start": 53.048,
+          "end": 53.353,
+          "confidence": 0.4076923076923077
+        },
+        {
+          "text": "şartlar",
+          "start": 53.353,
+          "end": 53.659,
+          "confidence": 0.4076923076923077
+        }
+      ]
+    },
+    {
+      "id": "claude_aligned_004",
+      "text": "Ne olur bozduksa ruhun",
+      "start": 53.959,
+      "end": 59.359,
+      "confidence": 0.4482758620689655,
+      "alignment_method": "claude_code",
+      "original_transcription": "Bozuksa ruhun zaten bana yazık olur.",
+      "words": [
+        {
+          "text": "Ne",
+          "start": 53.959,
+          "end": 55.309,
+          "confidence": 0.4482758620689655
+        },
+        {
+          "text": "olur",
+          "start": 55.309,
+          "end": 56.659,
+          "confidence": 0.4482758620689655
+        },
+        {
+          "text": "bozduksa",
+          "start": 56.659,
+          "end": 58.009,
+          "confidence": 0.4482758620689655
+        },
+        {
+          "text": "ruhun",
+          "start": 58.009,
+          "end": 59.359,
+          "confidence": 0.4482758620689655
+        }
+      ]
+    },
+    {
+      "id": "claude_aligned_011",
+      "text": "Düştüğü yerden kalkıp yeniden yazılan kaderine güleceksin",
+      "start": 59.379,
+      "end": 61.219,
+      "confidence": 0.3058823529411765,
+      "alignment_method": "claude_code",
+      "original_transcription": "Yazık olur.",
+      "words": [
+        {
+          "text": "Düştüğü",
+          "start": 59.379,
+          "end": 59.642,
+          "confidence": 0.3058823529411765
+        },
+        {
+          "text": "yerden",
+          "start": 59.642,
+          "end": 59.905,
+          "confidence": 0.3058823529411765
+        },
+        {
+          "text": "kalkıp",
+          "start": 59.905,
+          "end": 60.168,
+          "confidence": 0.3058823529411765
+        },
+        {
+          "text": "yeniden",
+          "start": 60.168,
+          "end": 60.43,
+          "confidence": 0.3058823529411765
+        },
+        {
+          "text": "yazılan",
+          "start": 60.43,
+          "end": 60.693,
+          "confidence": 0.3058823529411765
+        },
+        {
+          "text": "kaderine",
+          "start": 60.693,
+          "end": 60.956,
+          "confidence": 0.3058823529411765
+        },
+        {
+          "text": "güleceksin",
+          "start": 60.956,
+          "end": 61.219,
+          "confidence": 0.3058823529411765
+        }
+      ]
+    },
+    {
+      "id": "claude_aligned_007",
+      "text": "Bir gün gelecek her yüzü göreceksin",
+      "start": 62.919,
+      "end": 64.059,
+      "confidence": 0.5882352941176471,
+      "alignment_method": "claude_code",
+      "original_transcription": "Bir gün gelecek,",
+      "words": [
+        {
+          "text": "Bir",
+          "start": 62.919,
+          "end": 63.109,
+          "confidence": 0.5882352941176471
+        },
+        {
+          "text": "gün",
+          "start": 63.109,
+          "end": 63.299,
+          "confidence": 0.5882352941176471
+        },
+        {
+          "text": "gelecek",
+          "start": 63.299,
+          "end": 63.489,
+          "confidence": 0.5882352941176471
+        },
+        {
+          "text": "her",
+          "start": 63.489,
+          "end": 63.679,
+          "confidence": 0.5882352941176471
+        },
+        {
+          "text": "yüzü",
+          "start": 63.679,
+          "end": 63.869,
+          "confidence": 0.5882352941176471
+        },
+        {
+          "text": "göreceksin",
+          "start": 63.869,
+          "end": 64.059,
+          "confidence": 0.5882352941176471
+        }
+      ]
+    },
+    {
+      "id": "claude_aligned_009",
+      "text": "Boşa geçtiği öğreneceksin",
+      "start": 64.159,
+      "end": 65.699,
+      "confidence": 0.5888888888888889,
+      "alignment_method": "claude_code",
+      "original_transcription": "her yüzü göreceksin.",
+      "words": [
+        {
+          "text": "Boşa",
+          "start": 64.159,
+          "end": 64.672,
+          "confidence": 0.5888888888888889
+        },
+        {
+          "text": "geçtiği",
+          "start": 64.672,
+          "end": 65.186,
+          "confidence": 0.5888888888888889
+        },
+        {
+          "text": "öğreneceksin",
+          "start": 65.186,
+          "end": 65.699,
+          "confidence": 0.5888888888888889
+        }
+      ]
+    },
+    {
+      "id": "claude_aligned_015",
+      "text": "İmdat bir ihtimal daha gel beni kurtar",
+      "start": 65.9,
+      "end": 70.6,
+      "confidence": 0.40303030303030307,
+      "alignment_method": "claude_code",
+      "original_transcription": "Tattığın her sözün ve her günün boşa geçtiğini öğreneceksin.",
+      "words": [
+        {
+          "text": "İmdat",
+          "start": 65.9,
+          "end": 66.571,
+          "confidence": 0.40303030303030307
+        },
+        {
+          "text": "bir",
+          "start": 66.571,
+          "end": 67.243,
+          "confidence": 0.40303030303030307
+        },
+        {
+          "text": "ihtimal",
+          "start": 67.243,
+          "end": 67.914,
+          "confidence": 0.40303030303030307
+        },
+        {
+          "text": "daha",
+          "start": 67.914,
+          "end": 68.586,
+          "confidence": 0.40303030303030307
+        },
+        {
+          "text": "gel",
+          "start": 68.586,
+          "end": 69.257,
+          "confidence": 0.40303030303030307
+        },
+        {
+          "text": "beni",
+          "start": 69.257,
+          "end": 69.929,
+          "confidence": 0.40303030303030307
+        },
+        {
+          "text": "kurtar",
+          "start": 69.929,
+          "end": 70.6,
+          "confidence": 0.40303030303030307
+        }
+      ]
+    },
+    {
+      "id": "claude_aligned_012",
+      "text": "Zaman hiç vermedi aman",
+      "start": 81.639,
+      "end": 84.519,
+      "confidence": 0.9777777777777777,
+      "alignment_method": "claude_code",
+      "original_transcription": "Zaman hiç vermedi aman.",
+      "words": [
+        {
+          "text": "Zaman",
+          "start": 81.639,
+          "end": 82.359,
+          "confidence": 0.9777777777777777
+        },
+        {
+          "text": "hiç",
+          "start": 82.359,
+          "end": 83.079,
+          "confidence": 0.9777777777777777
+        },
+        {
+          "text": "vermedi",
+          "start": 83.079,
+          "end": 83.799,
+          "confidence": 0.9777777777777777
+        },
+        {
+          "text": "aman",
+          "start": 83.799,
+          "end": 84.519,
+          "confidence": 0.9777777777777777
+        }
+      ]
+    },
+    {
+      "id": "claude_aligned_013",
+      "text": "Güç yordun teselliler yalan",
+      "start": 84.519,
+      "end": 86.779,
+      "confidence": 0.8857142857142857,
+      "alignment_method": "claude_code",
+      "original_transcription": "Geçiyor tüm teselliler yalan.",
+      "words": [
+        {
+          "text": "Güç",
+          "start": 84.519,
+          "end": 85.084,
+          "confidence": 0.8857142857142857
+        },
+        {
+          "text": "yordun",
+          "start": 85.084,
+          "end": 85.649,
+          "confidence": 0.8857142857142857
+        },
+        {
+          "text": "teselliler",
+          "start": 85.649,
+          "end": 86.214,
+          "confidence": 0.8857142857142857
+        },
+        {
+          "text": "yalan",
+          "start": 86.214,
+          "end": 86.779,
+          "confidence": 0.8857142857142857
+        }
+      ]
+    },
+    {
+      "id": "claude_aligned_014",
+      "text": "Ben büyütmek istesem de onlar küçük kalmak ister gözümde",
+      "start": 86.959,
+      "end": 91.839,
+      "confidence": 1.0491525423728814,
+      "alignment_method": "claude_code",
+      "original_transcription": "Ben büyütmek istesem de onlar küçük kalmak ister gözümde imdat",
+      "words": [
+        {
+          "text": "Ben",
+          "start": 86.959,
+          "end": 87.501,
+          "confidence": 1.0491525423728814
+        },
+        {
+          "text": "büyütmek",
+          "start": 87.501,
+          "end": 88.043,
+          "confidence": 1.0491525423728814
+        },
+        {
+          "text": "istesem",
+          "start": 88.043,
+          "end": 88.586,
+          "confidence": 1.0491525423728814
+        },
+        {
+          "text": "de",
+          "start": 88.586,
+          "end": 89.128,
+          "confidence": 1.0491525423728814
+        },
+        {
+          "text": "onlar",
+          "start": 89.128,
+          "end": 89.67,
+          "confidence": 1.0491525423728814
+        },
+        {
+          "text": "küçük",
+          "start": 89.67,
+          "end": 90.212,
+          "confidence": 1.0491525423728814
+        },
+        {
+          "text": "kalmak",
+          "start": 90.212,
+          "end": 90.755,
+          "confidence": 1.0491525423728814
+        },
+        {
+          "text": "ister",
+          "start": 90.755,
+          "end": 91.297,
+          "confidence": 1.0491525423728814
+        },
+        {
+          "text": "gözümde",
+          "start": 91.297,
+          "end": 91.839,
+          "confidence": 1.0491525423728814
+        }
+      ]
+    },
+    {
+      "id": "claude_aligned_000",
+      "text": "Yana yana sevdik bazen",
+      "start": 98.36,
+      "end": 100.719,
+      "confidence": 0.3157894736842105,
+      "alignment_method": "claude_code",
+      "original_transcription": "patlar bir anda.",
+      "words": [
+        {
+          "text": "Yana",
+          "start": 98.36,
+          "end": 98.95,
+          "confidence": 0.3157894736842105
+        },
+        {
+          "text": "yana",
+          "start": 98.95,
+          "end": 99.539,
+          "confidence": 0.3157894736842105
+        },
+        {
+          "text": "sevdik",
+          "start": 99.539,
+          "end": 100.129,
+          "confidence": 0.3157894736842105
+        },
+        {
+          "text": "bazen",
+          "start": 100.129,
+          "end": 100.719,
+          "confidence": 0.3157894736842105
+        }
+      ]
+    }
+  ],
+  "matching_details": {
+    "matches": [
+      {
+        "transcription_index": 0,
+        "reference_index": 1,
+        "confidence": 0.7956521739130434,
+        "reasoning": "fallback_algorithm",
+        "start_time": 17.34,
+        "end_time": 26.879
+      },
+      {
+        "transcription_index": 1,
+        "reference_index": 2,
+        "confidence": 0.9,
+        "reasoning": "fallback_algorithm",
+        "start_time": 27.5,
+        "end_time": 29.1
+      },
+      {
+        "transcription_index": 2,
+        "reference_index": 3,
+        "confidence": 0.8659574468085106,
+        "reasoning": "fallback_algorithm",
+        "start_time": 29.279,
+        "end_time": 31.979
+      },
+      {
+        "transcription_index": 3,
+        "reference_index": 5,
+        "confidence": 0.6789473684210526,
+        "reasoning": "fallback_algorithm",
+        "start_time": 32.319,
+        "end_time": 34.44
+      },
+      {
+        "transcription_index": 4,
+        "reference_index": 6,
+        "confidence": 0.5347826086956522,
+        "reasoning": "fallback_algorithm",
+        "start_time": 34.759,
+        "end_time": 38.919
+      },
+      {
+        "transcription_index": 5,
+        "reference_index": 10,
+        "confidence": 0.5554455445544555,
+        "reasoning": "fallback_algorithm",
+        "start_time": 38.919,
+        "end_time": 46.139
+      },
+      {
+        "transcription_index": 6,
+        "reference_index": 17,
+        "confidence": 0.4478260869565217,
+        "reasoning": "fallback_algorithm",
+        "start_time": 46.7,
+        "end_time": 48.239
+      },
+      {
+        "transcription_index": 7,
+        "reference_index": 8,
+        "confidence": 0.48,
+        "reasoning": "fallback_algorithm",
+        "start_time": 48.5,
+        "end_time": 51.18
+      },
+      {
+        "transcription_index": 8,
+        "reference_index": 16,
+        "confidence": 0.4076923076923077,
+        "reasoning": "fallback_algorithm",
+        "start_time": 51.52,
+        "end_time": 53.659
+      },
+      {
+        "transcription_index": 9,
+        "reference_index": 4,
+        "confidence": 0.4482758620689655,
+        "reasoning": "fallback_algorithm",
+        "start_time": 53.959,
+        "end_time": 59.359
+      },
+      {
+        "transcription_index": 10,
+        "reference_index": 11,
+        "confidence": 0.3058823529411765,
+        "reasoning": "fallback_algorithm",
+        "start_time": 59.379,
+        "end_time": 61.219
+      },
+      {
+        "transcription_index": 11,
+        "reference_index": 7,
+        "confidence": 0.5882352941176471,
+        "reasoning": "fallback_algorithm",
+        "start_time": 62.919,
+        "end_time": 64.059
+      },
+      {
+        "transcription_index": 12,
+        "reference_index": 9,
+        "confidence": 0.5888888888888889,
+        "reasoning": "fallback_algorithm",
+        "start_time": 64.159,
+        "end_time": 65.699
+      },
+      {
+        "transcription_index": 13,
+        "reference_index": 15,
+        "confidence": 0.40303030303030307,
+        "reasoning": "fallback_algorithm",
+        "start_time": 65.9,
+        "end_time": 70.6
+      },
+      {
+        "transcription_index": 17,
+        "reference_index": 12,
+        "confidence": 0.9777777777777777,
+        "reasoning": "fallback_algorithm",
+        "start_time": 81.639,
+        "end_time": 84.519
+      },
+      {
+        "transcription_index": 18,
+        "reference_index": 13,
+        "confidence": 0.8857142857142857,
+        "reasoning": "fallback_algorithm",
+        "start_time": 84.519,
+        "end_time": 86.779
+      },
+      {
+        "transcription_index": 19,
+        "reference_index": 14,
+        "confidence": 1.0491525423728814,
+        "reasoning": "fallback_algorithm",
+        "start_time": 86.959,
+        "end_time": 91.839
+      },
+      {
+        "transcription_index": 24,
+        "reference_index": 0,
+        "confidence": 0.3157894736842105,
+        "reasoning": "fallback_algorithm",
+        "start_time": 98.36,
+        "end_time": 100.719
+      }
+    ],
+    "sequential_check": "fallback",
+    "timing_issues": [],
+    "suggested_corrections": []
+  }
+}

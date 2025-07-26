@@ -1,0 +1,2345 @@
+{
+  "language_code": "tur",
+  "language_probability": 0.9939674735069275,
+  "text": "(gerilimli arap müziği) Yana yana sevdik bazen çok kez unutulup gidenin ardında ne? Kahrolan bi kul. Varsa sözüme güven, beni anla n'olur. Bozuksa ruhun zaten bana yazık olur. Yana yana sevdik bazen çok kez unutulup gidenin ardında ne? Kahrolan bi kul. Varsa sözüme güven, beni anla n'olur. Bozuksa ruhun zaten bana yazık olur. Yazık olur. Bir gün gelecek, her yüzü göreceksin. Tattığın her sözün ve her günün boşa geçtiğini öğreneceksin. Yine aynı yerde kalıp gidersen yarım kalır. Düştüğü yerden kalkıp yeniden yazılan kaderine güleceksin, oh. Zaman hiç vermedi aman. Geçiyor tüm teselliler yalan. Ben büyütmek istesem de onlar küçük kalmak ister gözümde imdat (bir ihtimal daha). Gel beni kurtar (benden bu kadar) zor olsa da şartlar. Sabrım gerilir, patlar bir anda. Yana yana sevdik bazen çok kez unutulup gidenin ardında ne? Kahrolan bi kul. Varsa sözüme güven, beni anla n'olur. Bozuksa ruhun zaten bana yazık olur. Yana yana sevdik bazen çok kez unutulup gidenin ardında ne? Kahrolan bi kul. Varsa sözüme güven, beni anla n'olur. Bozuksa ruhun zaten bana yazık olur. Yazık olur.",
+  "words": [
+    {
+      "text": "(gerilimli arap müziği)",
+      "start": 0.219,
+      "end": 17.34,
+      "type": "audio_event",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 17.34,
+      "end": 17.34,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Yana",
+      "start": 17.34,
+      "end": 20.199,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 20.199,
+      "end": 20.319,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "yana",
+      "start": 20.319,
+      "end": 20.78,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 20.78,
+      "end": 20.859,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "sevdik",
+      "start": 20.859,
+      "end": 21.479,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 21.479,
+      "end": 21.539,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "bazen",
+      "start": 21.539,
+      "end": 22.26,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 22.26,
+      "end": 22.34,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "çok",
+      "start": 22.34,
+      "end": 22.639,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 22.639,
+      "end": 22.719,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "kez",
+      "start": 22.719,
+      "end": 23.1,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 23.1,
+      "end": 23.1,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "unutulup",
+      "start": 23.1,
+      "end": 24.479,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 24.479,
+      "end": 24.539,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "gidenin",
+      "start": 24.539,
+      "end": 25.44,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 25.44,
+      "end": 25.5,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "ardında",
+      "start": 25.5,
+      "end": 26.5,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 26.5,
+      "end": 26.579,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "ne?",
+      "start": 26.579,
+      "end": 26.879,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 26.879,
+      "end": 27.5,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Kahrolan",
+      "start": 27.5,
+      "end": 28.219,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 28.219,
+      "end": 28.279,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "bi",
+      "start": 28.279,
+      "end": 28.359,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 28.359,
+      "end": 28.459,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "kul.",
+      "start": 28.459,
+      "end": 29.1,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 29.1,
+      "end": 29.279,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Varsa",
+      "start": 29.279,
+      "end": 30.099,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 30.099,
+      "end": 30.159,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "sözüme",
+      "start": 30.159,
+      "end": 31.039,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 31.039,
+      "end": 31.119,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "güven,",
+      "start": 31.119,
+      "end": 31.979,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 31.979,
+      "end": 32.319,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "beni",
+      "start": 32.319,
+      "end": 32.659,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 32.659,
+      "end": 32.739,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "anla",
+      "start": 32.739,
+      "end": 33.38,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 33.38,
+      "end": 33.52,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "n'olur.",
+      "start": 33.52,
+      "end": 34.44,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 34.44,
+      "end": 34.759,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Bozuksa",
+      "start": 34.759,
+      "end": 35.639,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 35.639,
+      "end": 35.899,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "ruhun",
+      "start": 35.899,
+      "end": 36.479,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 36.479,
+      "end": 36.52,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "zaten",
+      "start": 36.52,
+      "end": 37.119,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 37.119,
+      "end": 37.159,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "bana",
+      "start": 37.159,
+      "end": 37.68,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 37.68,
+      "end": 37.7,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "yazık",
+      "start": 37.7,
+      "end": 38.359,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 38.359,
+      "end": 38.36,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "olur.",
+      "start": 38.36,
+      "end": 38.919,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 38.919,
+      "end": 38.919,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Yana",
+      "start": 38.919,
+      "end": 39.479,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 39.479,
+      "end": 39.52,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "yana",
+      "start": 39.52,
+      "end": 40.059,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 40.059,
+      "end": 40.079,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "sevdik",
+      "start": 40.079,
+      "end": 40.699,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 40.699,
+      "end": 40.759,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "bazen",
+      "start": 40.759,
+      "end": 41.459,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 41.459,
+      "end": 41.52,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "çok",
+      "start": 41.52,
+      "end": 41.859,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 41.859,
+      "end": 41.979,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "kez",
+      "start": 41.979,
+      "end": 42.319,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 42.319,
+      "end": 42.36,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "unutulup",
+      "start": 42.36,
+      "end": 43.719,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 43.719,
+      "end": 43.759,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "gidenin",
+      "start": 43.759,
+      "end": 44.659,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 44.659,
+      "end": 44.7,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "ardında",
+      "start": 44.7,
+      "end": 45.719,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 45.719,
+      "end": 45.86,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "ne?",
+      "start": 45.86,
+      "end": 46.139,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 46.139,
+      "end": 46.7,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Kahrolan",
+      "start": 46.7,
+      "end": 47.459,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 47.459,
+      "end": 47.5,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "bi",
+      "start": 47.5,
+      "end": 47.599,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 47.599,
+      "end": 47.7,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "kul.",
+      "start": 47.7,
+      "end": 48.239,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 48.239,
+      "end": 48.5,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Varsa",
+      "start": 48.5,
+      "end": 49.34,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 49.34,
+      "end": 49.419,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "sözüme",
+      "start": 49.419,
+      "end": 50.279,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 50.279,
+      "end": 50.34,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "güven,",
+      "start": 50.34,
+      "end": 51.18,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 51.18,
+      "end": 51.52,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "beni",
+      "start": 51.52,
+      "end": 51.859,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 51.859,
+      "end": 51.939,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "anla",
+      "start": 51.939,
+      "end": 52.6,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 52.6,
+      "end": 52.719,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "n'olur.",
+      "start": 52.719,
+      "end": 53.659,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 53.659,
+      "end": 53.959,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Bozuksa",
+      "start": 53.959,
+      "end": 54.919,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 54.919,
+      "end": 55.099,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "ruhun",
+      "start": 55.099,
+      "end": 55.699,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 55.699,
+      "end": 55.759,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "zaten",
+      "start": 55.759,
+      "end": 56.319,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 56.319,
+      "end": 56.379,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "bana",
+      "start": 56.379,
+      "end": 56.879,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 56.879,
+      "end": 56.899,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "yazık",
+      "start": 56.899,
+      "end": 57.56,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 57.56,
+      "end": 57.639,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "olur.",
+      "start": 57.639,
+      "end": 59.359,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 59.359,
+      "end": 59.379,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Yazık",
+      "start": 59.379,
+      "end": 59.959,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 59.959,
+      "end": 60.0,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "olur.",
+      "start": 60.0,
+      "end": 61.219,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 61.219,
+      "end": 62.919,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Bir",
+      "start": 62.919,
+      "end": 63.179,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 63.179,
+      "end": 63.199,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "gün",
+      "start": 63.199,
+      "end": 63.459,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 63.459,
+      "end": 63.5,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "gelecek,",
+      "start": 63.5,
+      "end": 64.059,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 64.059,
+      "end": 64.159,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "her",
+      "start": 64.159,
+      "end": 64.319,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 64.319,
+      "end": 64.379,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "yüzü",
+      "start": 64.379,
+      "end": 64.659,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 64.659,
+      "end": 64.699,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "göreceksin.",
+      "start": 64.699,
+      "end": 65.699,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 65.699,
+      "end": 65.9,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Tattığın",
+      "start": 65.9,
+      "end": 66.539,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 66.539,
+      "end": 66.54,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "her",
+      "start": 66.54,
+      "end": 66.719,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 66.719,
+      "end": 66.779,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "sözün",
+      "start": 66.779,
+      "end": 67.239,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 67.239,
+      "end": 67.279,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "ve",
+      "start": 67.279,
+      "end": 67.4,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 67.4,
+      "end": 67.419,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "her",
+      "start": 67.419,
+      "end": 67.66,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 67.66,
+      "end": 67.739,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "günün",
+      "start": 67.739,
+      "end": 68.119,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 68.119,
+      "end": 68.299,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "boşa",
+      "start": 68.299,
+      "end": 68.599,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 68.599,
+      "end": 68.639,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "geçtiğini",
+      "start": 68.639,
+      "end": 69.179,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 69.179,
+      "end": 69.299,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "öğreneceksin.",
+      "start": 69.299,
+      "end": 70.6,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 70.6,
+      "end": 70.72,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Yine",
+      "start": 70.72,
+      "end": 71.04,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 71.04,
+      "end": 71.059,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "aynı",
+      "start": 71.059,
+      "end": 71.4,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 71.4,
+      "end": 71.439,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "yerde",
+      "start": 71.439,
+      "end": 71.979,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 71.979,
+      "end": 72.04,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "kalıp",
+      "start": 72.04,
+      "end": 72.62,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 72.62,
+      "end": 73.119,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "gidersen",
+      "start": 73.119,
+      "end": 73.9,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 73.9,
+      "end": 73.9,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "yarım",
+      "start": 73.9,
+      "end": 74.34,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 74.34,
+      "end": 74.439,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "kalır.",
+      "start": 74.439,
+      "end": 75.28,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 75.28,
+      "end": 75.519,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Düştüğü",
+      "start": 75.519,
+      "end": 76.079,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 76.079,
+      "end": 76.139,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "yerden",
+      "start": 76.139,
+      "end": 76.72,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 76.72,
+      "end": 76.739,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "kalkıp",
+      "start": 76.739,
+      "end": 77.319,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 77.319,
+      "end": 77.36,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "yeniden",
+      "start": 77.36,
+      "end": 77.919,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 77.919,
+      "end": 77.939,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "yazılan",
+      "start": 77.939,
+      "end": 78.48,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 78.48,
+      "end": 78.5,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "kaderine",
+      "start": 78.5,
+      "end": 79.079,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 79.079,
+      "end": 79.099,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "güleceksin,",
+      "start": 79.099,
+      "end": 80.379,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 80.379,
+      "end": 80.379,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "oh.",
+      "start": 80.379,
+      "end": 81.079,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 81.079,
+      "end": 81.639,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Zaman",
+      "start": 81.639,
+      "end": 82.54,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 82.54,
+      "end": 82.72,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "hiç",
+      "start": 82.72,
+      "end": 83.0,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 83.0,
+      "end": 83.04,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "vermedi",
+      "start": 83.04,
+      "end": 83.7,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 83.7,
+      "end": 83.819,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "aman.",
+      "start": 83.819,
+      "end": 84.519,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 84.519,
+      "end": 84.519,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Geçiyor",
+      "start": 84.519,
+      "end": 85.099,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 85.099,
+      "end": 85.099,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "tüm",
+      "start": 85.099,
+      "end": 85.379,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 85.379,
+      "end": 85.419,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "teselliler",
+      "start": 85.419,
+      "end": 86.279,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 86.279,
+      "end": 86.319,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "yalan.",
+      "start": 86.319,
+      "end": 86.779,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 86.779,
+      "end": 86.959,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Ben",
+      "start": 86.959,
+      "end": 87.18,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 87.18,
+      "end": 87.259,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "büyütmek",
+      "start": 87.259,
+      "end": 87.919,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 87.919,
+      "end": 87.939,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "istesem",
+      "start": 87.939,
+      "end": 88.559,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 88.559,
+      "end": 88.58,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "de",
+      "start": 88.58,
+      "end": 88.739,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 88.739,
+      "end": 88.759,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "onlar",
+      "start": 88.759,
+      "end": 89.279,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 89.279,
+      "end": 89.319,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "küçük",
+      "start": 89.319,
+      "end": 89.739,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 89.739,
+      "end": 89.799,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "kalmak",
+      "start": 89.799,
+      "end": 90.3,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 90.3,
+      "end": 90.319,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "ister",
+      "start": 90.319,
+      "end": 90.819,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 90.819,
+      "end": 90.86,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "gözümde",
+      "start": 90.86,
+      "end": 91.479,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 91.479,
+      "end": 91.479,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "imdat",
+      "start": 91.479,
+      "end": 91.839,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 91.839,
+      "end": 91.839,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "(bir ihtimal daha)",
+      "start": 91.839,
+      "end": 93.079,
+      "type": "audio_event",
+      "logprob": 0.0
+    },
+    {
+      "text": ".",
+      "start": 93.079,
+      "end": 93.099,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 93.099,
+      "end": 93.259,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Gel",
+      "start": 93.259,
+      "end": 93.52,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 93.52,
+      "end": 93.54,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "beni",
+      "start": 93.54,
+      "end": 93.819,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 93.819,
+      "end": 93.86,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "kurtar",
+      "start": 93.86,
+      "end": 94.339,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 94.339,
+      "end": 94.439,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "(benden bu kadar)",
+      "start": 94.439,
+      "end": 95.319,
+      "type": "audio_event",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 95.319,
+      "end": 95.459,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "zor",
+      "start": 95.459,
+      "end": 95.68,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 95.68,
+      "end": 95.739,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "olsa",
+      "start": 95.739,
+      "end": 96.059,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 96.059,
+      "end": 96.079,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "da",
+      "start": 96.079,
+      "end": 96.219,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 96.219,
+      "end": 96.22,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "şartlar.",
+      "start": 96.22,
+      "end": 97.119,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 97.119,
+      "end": 97.119,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Sabrım",
+      "start": 97.119,
+      "end": 97.679,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 97.679,
+      "end": 97.759,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "gerilir,",
+      "start": 97.759,
+      "end": 98.279,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 98.279,
+      "end": 98.36,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "patlar",
+      "start": 98.36,
+      "end": 99.22,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 99.22,
+      "end": 99.4,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "bir",
+      "start": 99.4,
+      "end": 99.979,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 99.979,
+      "end": 99.979,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "anda.",
+      "start": 99.979,
+      "end": 100.719,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 100.719,
+      "end": 100.72,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Yana",
+      "start": 100.72,
+      "end": 101.619,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 101.619,
+      "end": 101.9,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "yana",
+      "start": 101.9,
+      "end": 102.419,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 102.419,
+      "end": 102.479,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "sevdik",
+      "start": 102.479,
+      "end": 103.079,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 103.079,
+      "end": 103.119,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "bazen",
+      "start": 103.119,
+      "end": 103.84,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 103.84,
+      "end": 103.919,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "çok",
+      "start": 103.919,
+      "end": 104.3,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 104.3,
+      "end": 104.319,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "kez",
+      "start": 104.319,
+      "end": 104.72,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 104.72,
+      "end": 104.72,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "unutulup",
+      "start": 104.72,
+      "end": 106.059,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 106.059,
+      "end": 106.139,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "gidenin",
+      "start": 106.139,
+      "end": 107.059,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 107.059,
+      "end": 107.119,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "ardında",
+      "start": 107.119,
+      "end": 108.099,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 108.099,
+      "end": 108.199,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "ne?",
+      "start": 108.199,
+      "end": 108.499,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 108.499,
+      "end": 109.119,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Kahrolan",
+      "start": 109.119,
+      "end": 109.819,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 109.819,
+      "end": 109.879,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "bi",
+      "start": 109.879,
+      "end": 109.959,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 109.959,
+      "end": 110.059,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "kul.",
+      "start": 110.059,
+      "end": 110.699,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 110.699,
+      "end": 110.879,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Varsa",
+      "start": 110.879,
+      "end": 111.7,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 111.7,
+      "end": 111.759,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "sözüme",
+      "start": 111.759,
+      "end": 112.679,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 112.679,
+      "end": 112.72,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "güven,",
+      "start": 112.72,
+      "end": 113.659,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 113.659,
+      "end": 113.919,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "beni",
+      "start": 113.919,
+      "end": 114.26,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 114.26,
+      "end": 114.299,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "anla",
+      "start": 114.299,
+      "end": 114.999,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 114.999,
+      "end": 115.139,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "n'olur.",
+      "start": 115.139,
+      "end": 116.119,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 116.119,
+      "end": 116.319,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Bozuksa",
+      "start": 116.319,
+      "end": 117.239,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 117.239,
+      "end": 117.5,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "ruhun",
+      "start": 117.5,
+      "end": 118.079,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 118.079,
+      "end": 118.119,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "zaten",
+      "start": 118.119,
+      "end": 118.739,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 118.739,
+      "end": 118.739,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "bana",
+      "start": 118.739,
+      "end": 119.279,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 119.279,
+      "end": 119.319,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "yazık",
+      "start": 119.319,
+      "end": 119.959,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 119.959,
+      "end": 119.979,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "olur.",
+      "start": 119.979,
+      "end": 120.559,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 120.559,
+      "end": 120.579,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Yana",
+      "start": 120.579,
+      "end": 121.08,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 121.08,
+      "end": 121.119,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "yana",
+      "start": 121.119,
+      "end": 121.68,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 121.68,
+      "end": 121.68,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "sevdik",
+      "start": 121.68,
+      "end": 122.299,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 122.299,
+      "end": 122.339,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "bazen",
+      "start": 122.339,
+      "end": 123.059,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 123.059,
+      "end": 123.139,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "çok",
+      "start": 123.139,
+      "end": 123.5,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 123.5,
+      "end": 123.519,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "kez",
+      "start": 123.519,
+      "end": 123.919,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 123.919,
+      "end": 123.939,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "unutulup",
+      "start": 123.939,
+      "end": 125.319,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 125.319,
+      "end": 125.339,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "gidenin",
+      "start": 125.339,
+      "end": 126.259,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 126.259,
+      "end": 126.319,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "ardında",
+      "start": 126.319,
+      "end": 127.319,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 127.319,
+      "end": 127.419,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "ne?",
+      "start": 127.419,
+      "end": 127.699,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 127.699,
+      "end": 128.3,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Kahrolan",
+      "start": 128.3,
+      "end": 129.059,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 129.059,
+      "end": 129.08,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "bi",
+      "start": 129.08,
+      "end": 129.159,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 129.159,
+      "end": 129.259,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "kul.",
+      "start": 129.259,
+      "end": 129.979,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 129.979,
+      "end": 130.099,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Varsa",
+      "start": 130.099,
+      "end": 130.939,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 130.939,
+      "end": 130.959,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "sözüme",
+      "start": 130.959,
+      "end": 131.859,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 131.859,
+      "end": 131.919,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "güven,",
+      "start": 131.919,
+      "end": 132.82,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 132.82,
+      "end": 133.119,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "beni",
+      "start": 133.119,
+      "end": 133.459,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 133.459,
+      "end": 133.52,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "anla",
+      "start": 133.52,
+      "end": 134.08,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 134.08,
+      "end": 134.319,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "n'olur.",
+      "start": 134.319,
+      "end": 135.26,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 135.26,
+      "end": 135.539,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Bozuksa",
+      "start": 135.539,
+      "end": 136.479,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 136.479,
+      "end": 136.699,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "ruhun",
+      "start": 136.699,
+      "end": 137.279,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 137.279,
+      "end": 137.319,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "zaten",
+      "start": 137.319,
+      "end": 137.94,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 137.94,
+      "end": 137.94,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "bana",
+      "start": 137.94,
+      "end": 138.479,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 138.479,
+      "end": 138.539,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "yazık",
+      "start": 138.539,
+      "end": 139.18,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 139.18,
+      "end": 139.199,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "olur.",
+      "start": 139.199,
+      "end": 140.939,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 140.939,
+      "end": 140.979,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "Yazık",
+      "start": 140.979,
+      "end": 141.519,
+      "type": "word",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 141.519,
+      "end": 141.599,
+      "type": "spacing",
+      "logprob": 0.0
+    },
+    {
+      "text": "olur.",
+      "start": 141.599,
+      "end": 142.46,
+      "type": "word",
+      "logprob": 0.0
+    }
+  ]
+}

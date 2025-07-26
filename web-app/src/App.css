@@ -1,0 +1,752 @@
+.app {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #ffffff;
+  color: #333333;
+  min-height: 100vh;
+}
+
+.app-header {
+  text-align: center;
+  margin-bottom: 2rem;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 1rem;
+}
+
+.app-header h1 {
+  margin: 0;
+  color: #333;
+  font-size: 2.5rem;
+}
+
+.app-header p {
+  margin: 0.5rem 0 1rem 0;
+  color: #666;
+  font-size: 1.2rem;
+}
+
+/* Tab Navigation */
+.tab-navigation {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.tab-button {
+  padding: 0.75rem 1.5rem;
+  border: 2px solid #2196f3;
+  background: transparent;
+  color: #2196f3;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.tab-button:hover {
+  background: rgba(33, 150, 243, 0.1);
+}
+
+.tab-button.active {
+  background: #2196f3;
+  color: white;
+}
+
+/* Current Song Info */
+.current-song-info {
+  text-align: center;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+}
+
+.current-song-info h2 {
+  margin: 0 0 0.25rem 0;
+  color: #333;
+  font-size: 1.5rem;
+}
+
+.current-song-info p {
+  margin: 0;
+  color: #666;
+  font-style: italic;
+}
+
+.app-main {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+/* Audio Player Styles */
+.audio-player {
+  background: #f5f5f5;
+  border-radius: 10px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.play-button {
+  background: #4CAF50;
+  border: none;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  font-size: 24px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.play-button:hover {
+  background: #45a049;
+}
+
+.time-display {
+  font-family: monospace;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.speed-control {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #333;
+}
+
+.speed-control label {
+  font-weight: 500;
+}
+
+.speed-select {
+  padding: 0.3rem 0.5rem;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  background-color: #ffffff;
+  color: #333333;
+  font-size: 0.9rem;
+}
+
+.progress-container {
+  width: 100%;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 8px;
+  background: #ddd;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+}
+
+/* Control Panel Styles */
+.control-panel {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  background: #fff;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.view-mode-controls {
+  color: #333333;
+}
+
+.view-mode-controls select {
+  padding: 0.5rem;
+  margin-left: 0.5rem;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  background-color: #ffffff;
+  color: #333333;
+}
+
+.translation-controls {
+  color: #333333;
+}
+
+.translation-controls label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+  color: #333333;
+}
+
+/* Lyrics Display Styles */
+.lyrics-display {
+  background: #fff;
+  border-radius: 10px;
+  padding: 2rem;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  min-height: 400px;
+}
+
+.segment {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border-radius: 8px;
+  transition: background-color 0.3s;
+}
+
+.segment-active {
+  background-color: #e3f2fd;
+  border-left: 4px solid #2196F3;
+}
+
+.segment-text {
+  font-size: 1.4rem;
+  line-height: 1.8;
+  margin-bottom: 0.5rem;
+}
+
+.word {
+  display: inline-block;
+  padding: 2px 4px;
+  margin: 0 2px;
+  border-radius: 3px;
+  transition: all 0.3s;
+  color: #333333;
+}
+
+.word.karaoke-active {
+  background-color: #ffeb3b;
+  color: #333;
+  font-weight: bold;
+  transform: scale(1.1);
+}
+
+.word.active {
+  background-color: #fff3e0;
+  border: 2px solid #ff9800;
+}
+
+.syllable {
+  transition: all 0.3s;
+}
+
+.syllable-active {
+  background-color: #ff5722;
+  color: white;
+  padding: 2px 4px;
+  border-radius: 3px;
+  font-weight: bold;
+}
+
+.translation {
+  font-size: 0.8em;
+  color: #666;
+  font-style: italic;
+  margin-left: 4px;
+}
+
+.segment-timing {
+  font-size: 0.8rem;
+  color: #999;
+  font-family: monospace;
+  margin-top: 0.5rem;
+}
+
+/* Debug Section */
+.debug-section {
+  background: #f8f9fa;
+  padding: 1rem;
+  border-radius: 8px;
+  font-family: monospace;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.debug-section p {
+  margin: 0.5rem 0;
+}
+
+/* Progress Bar Styles */
+.progress-bar-container {
+  margin: 1rem 0;
+  background: #fff;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.progress-bar-wrapper {
+  position: relative;
+  height: 60px;
+  background: #f0f0f0;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-bottom: 1rem;
+}
+
+.segments-track {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 40px;
+  z-index: 1;
+}
+
+.segment-block {
+  position: absolute;
+  top: 5px;
+  height: 30px;
+  background: #e3f2fd;
+  border: 1px solid #90caf9;
+  border-radius: 4px;
+  transition: all 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.8rem;
+  color: #1976d2;
+}
+
+.segment-block.active {
+  background: #2196f3;
+  color: white;
+  transform: scaleY(1.2);
+  z-index: 10;
+  box-shadow: 0 2px 8px rgba(33, 150, 243, 0.4);
+}
+
+.segment-block:hover {
+  background: #bbdefb;
+  transform: scaleY(1.1);
+}
+
+.segment-number {
+  font-weight: bold;
+  font-size: 0.7rem;
+}
+
+.progress-track {
+  position: absolute;
+  bottom: 5px;
+  left: 0;
+  right: 0;
+  height: 8px;
+  background: #ddd;
+  border-radius: 4px;
+  z-index: 2;
+}
+
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #4caf50, #8bc34a);
+  border-radius: 4px;
+  transition: width 0.1s ease-out;
+}
+
+.progress-handle {
+  position: absolute;
+  top: -4px;
+  width: 16px;
+  height: 16px;
+  background: #4caf50;
+  border: 2px solid white;
+  border-radius: 50%;
+  transform: translateX(-50%);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  transition: left 0.1s ease-out;
+  z-index: 3;
+}
+
+.current-segment-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+  background: #f8f9fa;
+  border-radius: 6px;
+  font-size: 0.9rem;
+}
+
+.segment-text {
+  font-weight: 500;
+  color: #333;
+  flex: 1;
+}
+
+.segment-timing {
+  color: #666;
+  font-family: monospace;
+  font-size: 0.8rem;
+}
+
+/* Word Timing Display Styles */
+.word-timing-display {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-left: 4px solid #ff5722;
+}
+
+.segment-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.segment-header .segment-text {
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+.segment-header .segment-time {
+  font-family: monospace;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.segment-progress-container {
+  margin: 0.5rem 0;
+}
+
+.segment-progress-track {
+  height: 6px;
+  background: #ddd;
+  border-radius: 3px;
+  position: relative;
+}
+
+.segment-progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #ff5722, #ff7043);
+  border-radius: 3px;
+  transition: width 0.1s ease-out;
+}
+
+.words-timing-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.word-timing-item {
+  background: white;
+  border-radius: 6px;
+  padding: 0.75rem;
+  cursor: pointer;
+  transition: all 0.3s;
+  border: 1px solid #e0e0e0;
+}
+
+.word-timing-item:hover {
+  background: #f5f5f5;
+  border-color: #ccc;
+}
+
+.word-timing-item.active {
+  background: #fff3e0;
+  border-color: #ff9800;
+  box-shadow: 0 2px 8px rgba(255, 152, 0, 0.2);
+}
+
+.word-text {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #333;
+  margin-bottom: 0.25rem;
+}
+
+.word-timing-info {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.8rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.word-time {
+  font-family: monospace;
+}
+
+.word-confidence {
+  color: #4caf50;
+  font-weight: 500;
+}
+
+.word-progress-container {
+  position: relative;
+}
+
+.word-progress-track {
+  height: 4px;
+  background: #ddd;
+  border-radius: 2px;
+  position: relative;
+}
+
+.word-progress-fill {
+  height: 100%;
+  background: #ff1744;
+  border-radius: 2px;
+  transition: width 0.1s ease-out;
+}
+
+.word-progress-handle {
+  position: absolute;
+  top: -2px;
+  width: 8px;
+  height: 8px;
+  background: #ff1744;
+  border-radius: 50%;
+  transform: translateX(-50%);
+  transition: left 0.1s ease-out;
+}
+
+/* Download Manager Styles */
+.download-manager {
+  background: white;
+  border-radius: 10px;
+  padding: 2rem;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.download-manager-header {
+  text-align: center;
+  margin-bottom: 2rem;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 1rem;
+}
+
+.download-manager-header h2 {
+  color: #333;
+  margin: 0 0 0.5rem 0;
+}
+
+.download-manager-header p {
+  color: #666;
+  margin: 0;
+}
+
+.add-song-section {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+}
+
+.add-song-section h3 {
+  margin: 0 0 1rem 0;
+  color: #333;
+}
+
+.add-song-form {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.youtube-url-input {
+  flex: 1;
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: 1rem;
+}
+
+.youtube-url-input:focus {
+  outline: none;
+  border-color: #2196f3;
+  box-shadow: 0 0 0 2px rgba(33, 150, 243, 0.1);
+}
+
+.add-song-button {
+  padding: 0.75rem 1.5rem;
+  background: #2196f3;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.add-song-button:hover:not(:disabled) {
+  background: #1976d2;
+}
+
+.add-song-button:disabled {
+  background: #ccc;
+  cursor: not-allowed;
+}
+
+.songs-list h3 {
+  margin: 0 0 1rem 0;
+  color: #333;
+}
+
+.no-songs {
+  text-align: center;
+  color: #666;
+  font-style: italic;
+  padding: 2rem;
+}
+
+.songs-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+}
+
+.song-card {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1rem;
+  background: white;
+  transition: all 0.3s;
+}
+
+.song-card:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  border-color: #ccc;
+}
+
+.song-title {
+  margin: 0 0 0.25rem 0;
+  color: #333;
+  font-size: 1.1rem;
+}
+
+.song-artist {
+  margin: 0 0 0.5rem 0;
+  color: #666;
+  font-style: italic;
+}
+
+.song-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.song-language {
+  color: #4caf50;
+  font-weight: 500;
+}
+
+.song-status {
+  color: #666;
+}
+
+.song-error {
+  color: #f44336;
+  font-size: 0.8rem;
+  margin: 0.5rem 0 0 0;
+}
+
+.song-actions {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+}
+
+.download-button, .select-button, .retry-button {
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background-color 0.3s;
+}
+
+.download-button {
+  background: #4caf50;
+  color: white;
+}
+
+.download-button:hover {
+  background: #45a049;
+}
+
+.select-button {
+  background: #2196f3;
+  color: white;
+}
+
+.select-button:hover {
+  background: #1976d2;
+}
+
+.retry-button {
+  background: #ff9800;
+  color: white;
+}
+
+.retry-button:hover {
+  background: #f57c00;
+}
+
+.youtube-link {
+  padding: 0.5rem 1rem;
+  background: #ff4444;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  transition: background-color 0.3s;
+}
+
+.youtube-link:hover {
+  background: #cc0000;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .app {
+    padding: 1rem;
+  }
+  
+  .control-panel {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .segment-text {
+    font-size: 1.2rem;
+  }
+  
+  .progress-bar-wrapper {
+    height: 50px;
+  }
+  
+  .segment-block {
+    height: 25px;
+    font-size: 0.7rem;
+  }
+  
+  .segment-number {
+    font-size: 0.6rem;
+  }
+  
+  .current-segment-info {
+    flex-direction: column;
+    gap: 0.5rem;
+    text-align: center;
+  }
+}

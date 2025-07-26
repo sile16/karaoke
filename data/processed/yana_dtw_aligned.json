@@ -1,0 +1,2581 @@
+{
+  "metadata": {
+    "title": "Yana Yana",
+    "artists": [
+      "Semicenk",
+      "Reynmen"
+    ],
+    "duration": 162.0,
+    "language": "tr",
+    "alignment_method": "DTW",
+    "alignment_quality": 0.35896067533998566,
+    "total_distance": 23.291330891330894
+  },
+  "segments": [
+    {
+      "id": "aligned_000",
+      "text": "Yana yana sevdik bazen",
+      "start": 11.4,
+      "end": 14.96,
+      "confidence": 0.7484999999999999,
+      "alignment_quality": 0.0,
+      "words": [
+        {
+          "text": "Yana",
+          "start": 11.4,
+          "end": 12.29,
+          "confidence": 0.7484999999999999,
+          "syllables": [
+            {
+              "text": "Yan",
+              "start": 11.4,
+              "end": 11.845
+            },
+            {
+              "text": "na",
+              "start": 11.845,
+              "end": 12.29
+            }
+          ],
+          "translation": {
+            "literal": "burning",
+            "contextual": "painfully"
+          }
+        },
+        {
+          "text": "yana",
+          "start": 12.29,
+          "end": 13.18,
+          "confidence": 0.7484999999999999,
+          "syllables": [
+            {
+              "text": "yan",
+              "start": 12.29,
+              "end": 12.735
+            },
+            {
+              "text": "na",
+              "start": 12.735,
+              "end": 13.18
+            }
+          ],
+          "translation": {
+            "literal": "burning",
+            "contextual": "painfully"
+          }
+        },
+        {
+          "text": "sevdik",
+          "start": 13.18,
+          "end": 14.07,
+          "confidence": 0.7484999999999999,
+          "syllables": [
+            {
+              "text": "se",
+              "start": 13.18,
+              "end": 13.625
+            },
+            {
+              "text": "vdik",
+              "start": 13.625,
+              "end": 14.07
+            }
+          ],
+          "translation": {
+            "literal": "we loved",
+            "contextual": "we loved"
+          }
+        },
+        {
+          "text": "bazen",
+          "start": 14.07,
+          "end": 14.96,
+          "confidence": 0.7484999999999999,
+          "syllables": [
+            {
+              "text": "baz",
+              "start": 14.07,
+              "end": 14.515
+            },
+            {
+              "text": "zen",
+              "start": 14.515,
+              "end": 14.96
+            }
+          ],
+          "translation": {
+            "literal": "sometimes",
+            "contextual": "sometimes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aligned_001",
+      "text": "Çok kez unutulup gidinin ardından",
+      "start": 19.060000000000002,
+      "end": 45.8,
+      "confidence": 0.87,
+      "alignment_quality": 0.2333333333333333,
+      "words": [
+        {
+          "text": "Çok",
+          "start": 19.06,
+          "end": 24.408,
+          "confidence": 0.87,
+          "syllables": [
+            {
+              "text": "Çok",
+              "start": 19.06,
+              "end": 24.408
+            }
+          ],
+          "translation": {
+            "literal": "very/much",
+            "contextual": "many"
+          }
+        },
+        {
+          "text": "kez",
+          "start": 24.408,
+          "end": 29.756,
+          "confidence": 0.87,
+          "syllables": [
+            {
+              "text": "kez",
+              "start": 24.408,
+              "end": 29.756
+            }
+          ],
+          "translation": {
+            "literal": "times",
+            "contextual": "times"
+          }
+        },
+        {
+          "text": "unutulup",
+          "start": 29.756,
+          "end": 35.104,
+          "confidence": 0.87,
+          "syllables": [
+            {
+              "text": "un",
+              "start": 29.756,
+              "end": 31.093
+            },
+            {
+              "text": "nut",
+              "start": 31.093,
+              "end": 32.43
+            },
+            {
+              "text": "tul",
+              "start": 32.43,
+              "end": 33.767
+            },
+            {
+              "text": "lup",
+              "start": 33.767,
+              "end": 35.104
+            }
+          ],
+          "translation": {
+            "literal": "being forgotten",
+            "contextual": "being forgotten"
+          }
+        },
+        {
+          "text": "gidinin",
+          "start": 35.104,
+          "end": 40.452,
+          "confidence": 0.87,
+          "syllables": [
+            {
+              "text": "gid",
+              "start": 35.104,
+              "end": 36.887
+            },
+            {
+              "text": "din",
+              "start": 36.887,
+              "end": 38.669
+            },
+            {
+              "text": "nin",
+              "start": 38.669,
+              "end": 40.452
+            }
+          ],
+          "translation": {
+            "literal": "of the one who goes",
+            "contextual": "of the one who leaves"
+          }
+        },
+        {
+          "text": "ardından",
+          "start": 40.452,
+          "end": 45.8,
+          "confidence": 0.87,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 40.452,
+              "end": 42.235
+            },
+            {
+              "text": "rdı",
+              "start": 42.235,
+              "end": 44.017
+            },
+            {
+              "text": "ndan",
+              "start": 44.017,
+              "end": 45.8
+            }
+          ],
+          "translation": {
+            "literal": "after",
+            "contextual": "behind/after"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aligned_002",
+      "text": "Ne kar olan bir kul",
+      "start": 46.6,
+      "end": 50.82,
+      "confidence": 0.956,
+      "alignment_quality": 0.42857142857142855,
+      "words": [
+        {
+          "text": "Ne",
+          "start": 46.6,
+          "end": 47.444,
+          "confidence": 0.956,
+          "syllables": [
+            {
+              "text": "Ne",
+              "start": 46.6,
+              "end": 47.444
+            }
+          ],
+          "translation": {
+            "literal": "what",
+            "contextual": "what"
+          }
+        },
+        {
+          "text": "kar",
+          "start": 47.444,
+          "end": 48.288,
+          "confidence": 0.956,
+          "syllables": [
+            {
+              "text": "kar",
+              "start": 47.444,
+              "end": 48.288
+            }
+          ],
+          "translation": {
+            "literal": "profit/snow",
+            "contextual": "gain/benefit"
+          }
+        },
+        {
+          "text": "olan",
+          "start": 48.288,
+          "end": 49.132,
+          "confidence": 0.956,
+          "syllables": [
+            {
+              "text": "ol",
+              "start": 48.288,
+              "end": 48.71
+            },
+            {
+              "text": "lan",
+              "start": 48.71,
+              "end": 49.132
+            }
+          ],
+          "translation": {
+            "literal": "being/that is",
+            "contextual": "who is"
+          }
+        },
+        {
+          "text": "bir",
+          "start": 49.132,
+          "end": 49.976,
+          "confidence": 0.956,
+          "syllables": [
+            {
+              "text": "bir",
+              "start": 49.132,
+              "end": 49.976
+            }
+          ],
+          "translation": {
+            "literal": "one",
+            "contextual": "one"
+          }
+        },
+        {
+          "text": "kul",
+          "start": 49.976,
+          "end": 50.82,
+          "confidence": 0.956,
+          "syllables": [
+            {
+              "text": "kul",
+              "start": 49.976,
+              "end": 50.82
+            }
+          ],
+          "translation": {
+            "literal": "servant/slave",
+            "contextual": "person/soul"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aligned_003",
+      "text": "Varsa sözüme güven beni anla",
+      "start": 46.6,
+      "end": 50.82,
+      "confidence": 0.956,
+      "alignment_quality": 0.2222222222222222,
+      "words": [
+        {
+          "text": "Varsa",
+          "start": 46.6,
+          "end": 47.444,
+          "confidence": 0.956,
+          "syllables": [
+            {
+              "text": "Va",
+              "start": 46.6,
+              "end": 47.022
+            },
+            {
+              "text": "rsa",
+              "start": 47.022,
+              "end": 47.444
+            }
+          ],
+          "translation": {
+            "literal": "if there is",
+            "contextual": "if you have"
+          }
+        },
+        {
+          "text": "sözüme",
+          "start": 47.444,
+          "end": 48.288,
+          "confidence": 0.956,
+          "syllables": [
+            {
+              "text": "söz",
+              "start": 47.444,
+              "end": 47.725
+            },
+            {
+              "text": "züm",
+              "start": 47.725,
+              "end": 48.007
+            },
+            {
+              "text": "me",
+              "start": 48.007,
+              "end": 48.288
+            }
+          ],
+          "translation": {
+            "literal": "to my word",
+            "contextual": "my words"
+          }
+        },
+        {
+          "text": "güven",
+          "start": 48.288,
+          "end": 49.132,
+          "confidence": 0.956,
+          "syllables": [
+            {
+              "text": "güv",
+              "start": 48.288,
+              "end": 48.71
+            },
+            {
+              "text": "ven",
+              "start": 48.71,
+              "end": 49.132
+            }
+          ],
+          "translation": {
+            "literal": "trust",
+            "contextual": "trust"
+          }
+        },
+        {
+          "text": "beni",
+          "start": 49.132,
+          "end": 49.976,
+          "confidence": 0.956,
+          "syllables": [
+            {
+              "text": "ben",
+              "start": 49.132,
+              "end": 49.554
+            },
+            {
+              "text": "ni",
+              "start": 49.554,
+              "end": 49.976
+            }
+          ],
+          "translation": {
+            "literal": "me",
+            "contextual": "me"
+          }
+        },
+        {
+          "text": "anla",
+          "start": 49.976,
+          "end": 50.82,
+          "confidence": 0.956,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 49.976,
+              "end": 50.398
+            },
+            {
+              "text": "nla",
+              "start": 50.398,
+              "end": 50.82
+            }
+          ],
+          "translation": {
+            "literal": "understand",
+            "contextual": "understand"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aligned_004",
+      "text": "Ne olur bozduksa ruhun",
+      "start": 46.6,
+      "end": 50.82,
+      "confidence": 0.956,
+      "alignment_quality": 0.0,
+      "words": [
+        {
+          "text": "Ne",
+          "start": 46.6,
+          "end": 47.655,
+          "confidence": 0.956,
+          "syllables": [
+            {
+              "text": "Ne",
+              "start": 46.6,
+              "end": 47.655
+            }
+          ],
+          "translation": {
+            "literal": "what",
+            "contextual": "what"
+          }
+        },
+        {
+          "text": "olur",
+          "start": 47.655,
+          "end": 48.71,
+          "confidence": 0.956,
+          "syllables": [
+            {
+              "text": "ol",
+              "start": 47.655,
+              "end": 48.183
+            },
+            {
+              "text": "lur",
+              "start": 48.183,
+              "end": 48.71
+            }
+          ],
+          "translation": {
+            "literal": "happens/becomes",
+            "contextual": "happens"
+          }
+        },
+        {
+          "text": "bozduksa",
+          "start": 48.71,
+          "end": 49.765,
+          "confidence": 0.956,
+          "syllables": [
+            {
+              "text": "bo",
+              "start": 48.71,
+              "end": 49.062
+            },
+            {
+              "text": "zdu",
+              "start": 49.062,
+              "end": 49.413
+            },
+            {
+              "text": "ksa",
+              "start": 49.413,
+              "end": 49.765
+            }
+          ],
+          "translation": {
+            "literal": "if broken",
+            "contextual": "if it's broken"
+          }
+        },
+        {
+          "text": "ruhun",
+          "start": 49.765,
+          "end": 50.82,
+          "confidence": 0.956,
+          "syllables": [
+            {
+              "text": "ruh",
+              "start": 49.765,
+              "end": 50.293
+            },
+            {
+              "text": "hun",
+              "start": 50.293,
+              "end": 50.82
+            }
+          ],
+          "translation": {
+            "literal": "your soul",
+            "contextual": "your spirit"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aligned_005",
+      "text": "Zaten bana yazık olur",
+      "start": 51.44,
+      "end": 57.88,
+      "confidence": 0.977,
+      "alignment_quality": 0.6666666666666666,
+      "words": [
+        {
+          "text": "Zaten",
+          "start": 51.44,
+          "end": 53.05,
+          "confidence": 0.977,
+          "syllables": [
+            {
+              "text": "Zat",
+              "start": 51.44,
+              "end": 52.245
+            },
+            {
+              "text": "ten",
+              "start": 52.245,
+              "end": 53.05
+            }
+          ],
+          "translation": {
+            "literal": "already",
+            "contextual": "anyway"
+          }
+        },
+        {
+          "text": "bana",
+          "start": 53.05,
+          "end": 54.66,
+          "confidence": 0.977,
+          "syllables": [
+            {
+              "text": "ban",
+              "start": 53.05,
+              "end": 53.855
+            },
+            {
+              "text": "na",
+              "start": 53.855,
+              "end": 54.66
+            }
+          ],
+          "translation": {
+            "literal": "to me",
+            "contextual": "for me"
+          }
+        },
+        {
+          "text": "yazık",
+          "start": 54.66,
+          "end": 56.27,
+          "confidence": 0.977,
+          "syllables": [
+            {
+              "text": "yaz",
+              "start": 54.66,
+              "end": 55.465
+            },
+            {
+              "text": "zık",
+              "start": 55.465,
+              "end": 56.27
+            }
+          ],
+          "translation": {
+            "literal": "pity",
+            "contextual": "a shame"
+          }
+        },
+        {
+          "text": "olur",
+          "start": 56.27,
+          "end": 57.88,
+          "confidence": 0.977,
+          "syllables": [
+            {
+              "text": "ol",
+              "start": 56.27,
+              "end": 57.075
+            },
+            {
+              "text": "lur",
+              "start": 57.075,
+              "end": 57.88
+            }
+          ],
+          "translation": {
+            "literal": "happens/becomes",
+            "contextual": "happens"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aligned_006",
+      "text": "Yazık olur",
+      "start": 59.14,
+      "end": 60.24,
+      "confidence": 0.999,
+      "alignment_quality": 1.0,
+      "words": [
+        {
+          "text": "Yazık",
+          "start": 59.14,
+          "end": 59.69,
+          "confidence": 0.999,
+          "syllables": [
+            {
+              "text": "Yaz",
+              "start": 59.14,
+              "end": 59.415
+            },
+            {
+              "text": "zık",
+              "start": 59.415,
+              "end": 59.69
+            }
+          ],
+          "translation": {
+            "literal": "pity",
+            "contextual": "a shame"
+          }
+        },
+        {
+          "text": "olur",
+          "start": 59.69,
+          "end": 60.24,
+          "confidence": 0.999,
+          "syllables": [
+            {
+              "text": "ol",
+              "start": 59.69,
+              "end": 59.965
+            },
+            {
+              "text": "lur",
+              "start": 59.965,
+              "end": 60.24
+            }
+          ],
+          "translation": {
+            "literal": "happens/becomes",
+            "contextual": "happens"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aligned_007",
+      "text": "Bir gün gelecek her yüzü göreceksin",
+      "start": 62.82,
+      "end": 65.26,
+      "confidence": 0.929,
+      "alignment_quality": 1.0,
+      "words": [
+        {
+          "text": "Bir",
+          "start": 62.82,
+          "end": 63.227,
+          "confidence": 0.929,
+          "syllables": [
+            {
+              "text": "Bir",
+              "start": 62.82,
+              "end": 63.227
+            }
+          ],
+          "translation": {
+            "literal": "one",
+            "contextual": "one"
+          }
+        },
+        {
+          "text": "gün",
+          "start": 63.227,
+          "end": 63.633,
+          "confidence": 0.929,
+          "syllables": [
+            {
+              "text": "gün",
+              "start": 63.227,
+              "end": 63.633
+            }
+          ],
+          "translation": {
+            "literal": "day",
+            "contextual": "day"
+          }
+        },
+        {
+          "text": "gelecek",
+          "start": 63.633,
+          "end": 64.04,
+          "confidence": 0.929,
+          "syllables": [
+            {
+              "text": "gel",
+              "start": 63.633,
+              "end": 63.769
+            },
+            {
+              "text": "lec",
+              "start": 63.769,
+              "end": 63.904
+            },
+            {
+              "text": "cek",
+              "start": 63.904,
+              "end": 64.04
+            }
+          ],
+          "translation": {
+            "literal": "will come",
+            "contextual": "will come"
+          }
+        },
+        {
+          "text": "her",
+          "start": 64.04,
+          "end": 64.447,
+          "confidence": 0.929,
+          "syllables": [
+            {
+              "text": "her",
+              "start": 64.04,
+              "end": 64.447
+            }
+          ],
+          "translation": {
+            "literal": "every",
+            "contextual": "every"
+          }
+        },
+        {
+          "text": "yüzü",
+          "start": 64.447,
+          "end": 64.853,
+          "confidence": 0.929,
+          "syllables": [
+            {
+              "text": "yüz",
+              "start": 64.447,
+              "end": 64.65
+            },
+            {
+              "text": "zü",
+              "start": 64.65,
+              "end": 64.853
+            }
+          ],
+          "translation": {
+            "literal": "face",
+            "contextual": "face"
+          }
+        },
+        {
+          "text": "göreceksin",
+          "start": 64.853,
+          "end": 65.26,
+          "confidence": 0.929,
+          "syllables": [
+            {
+              "text": "gör",
+              "start": 64.853,
+              "end": 64.955
+            },
+            {
+              "text": "rec",
+              "start": 64.955,
+              "end": 65.057
+            },
+            {
+              "text": "ce",
+              "start": 65.057,
+              "end": 65.158
+            },
+            {
+              "text": "ksin",
+              "start": 65.158,
+              "end": 65.26
+            }
+          ],
+          "translation": {
+            "literal": "you will see",
+            "contextual": "you will see"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aligned_008",
+      "text": "Tattığın her sözün ve her günün",
+      "start": 65.82,
+      "end": 70.08,
+      "confidence": 0.953,
+      "alignment_quality": 0.5714285714285714,
+      "words": [
+        {
+          "text": "Tattığın",
+          "start": 65.82,
+          "end": 66.53,
+          "confidence": 0.953,
+          "syllables": [
+            {
+              "text": "Ta",
+              "start": 65.82,
+              "end": 66.057
+            },
+            {
+              "text": "ttığ",
+              "start": 66.057,
+              "end": 66.293
+            },
+            {
+              "text": "ğın",
+              "start": 66.293,
+              "end": 66.53
+            }
+          ]
+        },
+        {
+          "text": "her",
+          "start": 66.53,
+          "end": 67.24,
+          "confidence": 0.953,
+          "syllables": [
+            {
+              "text": "her",
+              "start": 66.53,
+              "end": 67.24
+            }
+          ],
+          "translation": {
+            "literal": "every",
+            "contextual": "every"
+          }
+        },
+        {
+          "text": "sözün",
+          "start": 67.24,
+          "end": 67.95,
+          "confidence": 0.953,
+          "syllables": [
+            {
+              "text": "söz",
+              "start": 67.24,
+              "end": 67.595
+            },
+            {
+              "text": "zün",
+              "start": 67.595,
+              "end": 67.95
+            }
+          ]
+        },
+        {
+          "text": "ve",
+          "start": 67.95,
+          "end": 68.66,
+          "confidence": 0.953,
+          "syllables": [
+            {
+              "text": "ve",
+              "start": 67.95,
+              "end": 68.66
+            }
+          ]
+        },
+        {
+          "text": "her",
+          "start": 68.66,
+          "end": 69.37,
+          "confidence": 0.953,
+          "syllables": [
+            {
+              "text": "her",
+              "start": 68.66,
+              "end": 69.37
+            }
+          ],
+          "translation": {
+            "literal": "every",
+            "contextual": "every"
+          }
+        },
+        {
+          "text": "günün",
+          "start": 69.37,
+          "end": 70.08,
+          "confidence": 0.953,
+          "syllables": [
+            {
+              "text": "gün",
+              "start": 69.37,
+              "end": 69.725
+            },
+            {
+              "text": "nün",
+              "start": 69.725,
+              "end": 70.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aligned_009",
+      "text": "Boşa geçtiği öğreneceksin",
+      "start": 65.82,
+      "end": 70.08,
+      "confidence": 0.953,
+      "alignment_quality": 0.42857142857142855,
+      "words": [
+        {
+          "text": "Boşa",
+          "start": 65.82,
+          "end": 67.24,
+          "confidence": 0.953,
+          "syllables": [
+            {
+              "text": "Boş",
+              "start": 65.82,
+              "end": 66.53
+            },
+            {
+              "text": "şa",
+              "start": 66.53,
+              "end": 67.24
+            }
+          ]
+        },
+        {
+          "text": "geçtiği",
+          "start": 67.24,
+          "end": 68.66,
+          "confidence": 0.953,
+          "syllables": [
+            {
+              "text": "ge",
+              "start": 67.24,
+              "end": 67.713
+            },
+            {
+              "text": "çtiğ",
+              "start": 67.713,
+              "end": 68.187
+            },
+            {
+              "text": "ği",
+              "start": 68.187,
+              "end": 68.66
+            }
+          ]
+        },
+        {
+          "text": "öğreneceksin",
+          "start": 68.66,
+          "end": 70.08,
+          "confidence": 0.953,
+          "syllables": [
+            {
+              "text": "ö",
+              "start": 68.66,
+              "end": 68.944
+            },
+            {
+              "text": "ğren",
+              "start": 68.944,
+              "end": 69.228
+            },
+            {
+              "text": "nec",
+              "start": 69.228,
+              "end": 69.512
+            },
+            {
+              "text": "ce",
+              "start": 69.512,
+              "end": 69.796
+            },
+            {
+              "text": "ksin",
+              "start": 69.796,
+              "end": 70.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aligned_010",
+      "text": "Yine aynı yerde kalıp gidersen yarım kalır",
+      "start": 70.62,
+      "end": 74.88,
+      "confidence": 0.93,
+      "alignment_quality": 0.8571428571428571,
+      "words": [
+        {
+          "text": "Yine",
+          "start": 70.62,
+          "end": 71.229,
+          "confidence": 0.93,
+          "syllables": [
+            {
+              "text": "Yin",
+              "start": 70.62,
+              "end": 70.924
+            },
+            {
+              "text": "ne",
+              "start": 70.924,
+              "end": 71.229
+            }
+          ]
+        },
+        {
+          "text": "aynı",
+          "start": 71.229,
+          "end": 71.837,
+          "confidence": 0.93,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 71.229,
+              "end": 71.533
+            },
+            {
+              "text": "ynı",
+              "start": 71.533,
+              "end": 71.837
+            }
+          ]
+        },
+        {
+          "text": "yerde",
+          "start": 71.837,
+          "end": 72.446,
+          "confidence": 0.93,
+          "syllables": [
+            {
+              "text": "ye",
+              "start": 71.837,
+              "end": 72.141
+            },
+            {
+              "text": "rde",
+              "start": 72.141,
+              "end": 72.446
+            }
+          ]
+        },
+        {
+          "text": "kalıp",
+          "start": 72.446,
+          "end": 73.054,
+          "confidence": 0.93,
+          "syllables": [
+            {
+              "text": "kal",
+              "start": 72.446,
+              "end": 72.75
+            },
+            {
+              "text": "lıp",
+              "start": 72.75,
+              "end": 73.054
+            }
+          ]
+        },
+        {
+          "text": "gidersen",
+          "start": 73.054,
+          "end": 73.663,
+          "confidence": 0.93,
+          "syllables": [
+            {
+              "text": "gid",
+              "start": 73.054,
+              "end": 73.257
+            },
+            {
+              "text": "de",
+              "start": 73.257,
+              "end": 73.46
+            },
+            {
+              "text": "rsen",
+              "start": 73.46,
+              "end": 73.663
+            }
+          ]
+        },
+        {
+          "text": "yarım",
+          "start": 73.663,
+          "end": 74.271,
+          "confidence": 0.93,
+          "syllables": [
+            {
+              "text": "yar",
+              "start": 73.663,
+              "end": 73.967
+            },
+            {
+              "text": "rım",
+              "start": 73.967,
+              "end": 74.271
+            }
+          ]
+        },
+        {
+          "text": "kalır",
+          "start": 74.271,
+          "end": 74.88,
+          "confidence": 0.93,
+          "syllables": [
+            {
+              "text": "kal",
+              "start": 74.271,
+              "end": 74.576
+            },
+            {
+              "text": "lır",
+              "start": 74.576,
+              "end": 74.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aligned_011",
+      "text": "Düştüğü yerden kalkıp yeniden yazılan kaderine güleceksin",
+      "start": 74.93,
+      "end": 79.7,
+      "confidence": 0.998,
+      "alignment_quality": 1.0,
+      "words": [
+        {
+          "text": "Düştüğü",
+          "start": 74.93,
+          "end": 75.611,
+          "confidence": 0.998,
+          "syllables": [
+            {
+              "text": "Dü",
+              "start": 74.93,
+              "end": 75.157
+            },
+            {
+              "text": "ştüğ",
+              "start": 75.157,
+              "end": 75.384
+            },
+            {
+              "text": "ğü",
+              "start": 75.384,
+              "end": 75.611
+            }
+          ]
+        },
+        {
+          "text": "yerden",
+          "start": 75.611,
+          "end": 76.293,
+          "confidence": 0.998,
+          "syllables": [
+            {
+              "text": "ye",
+              "start": 75.611,
+              "end": 75.952
+            },
+            {
+              "text": "rden",
+              "start": 75.952,
+              "end": 76.293
+            }
+          ]
+        },
+        {
+          "text": "kalkıp",
+          "start": 76.293,
+          "end": 76.974,
+          "confidence": 0.998,
+          "syllables": [
+            {
+              "text": "ka",
+              "start": 76.293,
+              "end": 76.634
+            },
+            {
+              "text": "lkıp",
+              "start": 76.634,
+              "end": 76.974
+            }
+          ]
+        },
+        {
+          "text": "yeniden",
+          "start": 76.974,
+          "end": 77.656,
+          "confidence": 0.998,
+          "syllables": [
+            {
+              "text": "yen",
+              "start": 76.974,
+              "end": 77.201
+            },
+            {
+              "text": "nid",
+              "start": 77.201,
+              "end": 77.429
+            },
+            {
+              "text": "den",
+              "start": 77.429,
+              "end": 77.656
+            }
+          ]
+        },
+        {
+          "text": "yazılan",
+          "start": 77.656,
+          "end": 78.337,
+          "confidence": 0.998,
+          "syllables": [
+            {
+              "text": "yaz",
+              "start": 77.656,
+              "end": 77.883
+            },
+            {
+              "text": "zıl",
+              "start": 77.883,
+              "end": 78.11
+            },
+            {
+              "text": "lan",
+              "start": 78.11,
+              "end": 78.337
+            }
+          ]
+        },
+        {
+          "text": "kaderine",
+          "start": 78.337,
+          "end": 79.019,
+          "confidence": 0.998,
+          "syllables": [
+            {
+              "text": "kad",
+              "start": 78.337,
+              "end": 78.507
+            },
+            {
+              "text": "der",
+              "start": 78.507,
+              "end": 78.678
+            },
+            {
+              "text": "rin",
+              "start": 78.678,
+              "end": 78.848
+            },
+            {
+              "text": "ne",
+              "start": 78.848,
+              "end": 79.019
+            }
+          ]
+        },
+        {
+          "text": "güleceksin",
+          "start": 79.019,
+          "end": 79.7,
+          "confidence": 0.998,
+          "syllables": [
+            {
+              "text": "gül",
+              "start": 79.019,
+              "end": 79.189
+            },
+            {
+              "text": "lec",
+              "start": 79.189,
+              "end": 79.359
+            },
+            {
+              "text": "ce",
+              "start": 79.359,
+              "end": 79.53
+            },
+            {
+              "text": "ksin",
+              "start": 79.53,
+              "end": 79.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aligned_012",
+      "text": "Zaman hiç vermedi aman",
+      "start": 80.0,
+      "end": 83.96,
+      "confidence": 0.908,
+      "alignment_quality": 1.0,
+      "words": [
+        {
+          "text": "Zaman",
+          "start": 80.0,
+          "end": 80.99,
+          "confidence": 0.908,
+          "syllables": [
+            {
+              "text": "Zam",
+              "start": 80.0,
+              "end": 80.495
+            },
+            {
+              "text": "man",
+              "start": 80.495,
+              "end": 80.99
+            }
+          ],
+          "translation": {
+            "literal": "time",
+            "contextual": "time"
+          }
+        },
+        {
+          "text": "hiç",
+          "start": 80.99,
+          "end": 81.98,
+          "confidence": 0.908,
+          "syllables": [
+            {
+              "text": "hiç",
+              "start": 80.99,
+              "end": 81.98
+            }
+          ],
+          "translation": {
+            "literal": "never",
+            "contextual": "never"
+          }
+        },
+        {
+          "text": "vermedi",
+          "start": 81.98,
+          "end": 82.97,
+          "confidence": 0.908,
+          "syllables": [
+            {
+              "text": "ve",
+              "start": 81.98,
+              "end": 82.31
+            },
+            {
+              "text": "rmed",
+              "start": 82.31,
+              "end": 82.64
+            },
+            {
+              "text": "di",
+              "start": 82.64,
+              "end": 82.97
+            }
+          ],
+          "translation": {
+            "literal": "didn't give",
+            "contextual": "didn't give"
+          }
+        },
+        {
+          "text": "aman",
+          "start": 82.97,
+          "end": 83.96,
+          "confidence": 0.908,
+          "syllables": [
+            {
+              "text": "am",
+              "start": 82.97,
+              "end": 83.465
+            },
+            {
+              "text": "man",
+              "start": 83.465,
+              "end": 83.96
+            }
+          ],
+          "translation": {
+            "literal": "mercy",
+            "contextual": "mercy"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aligned_013",
+      "text": "Güç yordun teselliler yalan",
+      "start": 84.16,
+      "end": 86.54,
+      "confidence": 0.818,
+      "alignment_quality": 1.0,
+      "words": [
+        {
+          "text": "Güç",
+          "start": 84.16,
+          "end": 84.755,
+          "confidence": 0.818,
+          "syllables": [
+            {
+              "text": "Güç",
+              "start": 84.16,
+              "end": 84.755
+            }
+          ]
+        },
+        {
+          "text": "yordun",
+          "start": 84.755,
+          "end": 85.35,
+          "confidence": 0.818,
+          "syllables": [
+            {
+              "text": "yo",
+              "start": 84.755,
+              "end": 85.052
+            },
+            {
+              "text": "rdun",
+              "start": 85.052,
+              "end": 85.35
+            }
+          ]
+        },
+        {
+          "text": "teselliler",
+          "start": 85.35,
+          "end": 85.945,
+          "confidence": 0.818,
+          "syllables": [
+            {
+              "text": "tes",
+              "start": 85.35,
+              "end": 85.499
+            },
+            {
+              "text": "se",
+              "start": 85.499,
+              "end": 85.648
+            },
+            {
+              "text": "llil",
+              "start": 85.648,
+              "end": 85.796
+            },
+            {
+              "text": "ler",
+              "start": 85.796,
+              "end": 85.945
+            }
+          ]
+        },
+        {
+          "text": "yalan",
+          "start": 85.945,
+          "end": 86.54,
+          "confidence": 0.818,
+          "syllables": [
+            {
+              "text": "yal",
+              "start": 85.945,
+              "end": 86.242
+            },
+            {
+              "text": "lan",
+              "start": 86.242,
+              "end": 86.54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aligned_014",
+      "text": "Ben büyütmek istesem de onlar küçük kalmak ister gözümde",
+      "start": 86.6,
+      "end": 91.74,
+      "confidence": 0.942,
+      "alignment_quality": 0.4375,
+      "words": [
+        {
+          "text": "Ben",
+          "start": 86.6,
+          "end": 87.171,
+          "confidence": 0.942,
+          "syllables": [
+            {
+              "text": "Ben",
+              "start": 86.6,
+              "end": 87.171
+            }
+          ]
+        },
+        {
+          "text": "büyütmek",
+          "start": 87.171,
+          "end": 87.742,
+          "confidence": 0.942,
+          "syllables": [
+            {
+              "text": "büy",
+              "start": 87.171,
+              "end": 87.361
+            },
+            {
+              "text": "yü",
+              "start": 87.361,
+              "end": 87.552
+            },
+            {
+              "text": "tmek",
+              "start": 87.552,
+              "end": 87.742
+            }
+          ]
+        },
+        {
+          "text": "istesem",
+          "start": 87.742,
+          "end": 88.313,
+          "confidence": 0.942,
+          "syllables": [
+            {
+              "text": "i",
+              "start": 87.742,
+              "end": 87.933
+            },
+            {
+              "text": "stes",
+              "start": 87.933,
+              "end": 88.123
+            },
+            {
+              "text": "sem",
+              "start": 88.123,
+              "end": 88.313
+            }
+          ]
+        },
+        {
+          "text": "de",
+          "start": 88.313,
+          "end": 88.884,
+          "confidence": 0.942,
+          "syllables": [
+            {
+              "text": "de",
+              "start": 88.313,
+              "end": 88.884
+            }
+          ]
+        },
+        {
+          "text": "onlar",
+          "start": 88.884,
+          "end": 89.456,
+          "confidence": 0.942,
+          "syllables": [
+            {
+              "text": "o",
+              "start": 88.884,
+              "end": 89.17
+            },
+            {
+              "text": "nlar",
+              "start": 89.17,
+              "end": 89.456
+            }
+          ]
+        },
+        {
+          "text": "küçük",
+          "start": 89.456,
+          "end": 90.027,
+          "confidence": 0.942,
+          "syllables": [
+            {
+              "text": "küç",
+              "start": 89.456,
+              "end": 89.741
+            },
+            {
+              "text": "çük",
+              "start": 89.741,
+              "end": 90.027
+            }
+          ]
+        },
+        {
+          "text": "kalmak",
+          "start": 90.027,
+          "end": 90.598,
+          "confidence": 0.942,
+          "syllables": [
+            {
+              "text": "ka",
+              "start": 90.027,
+              "end": 90.312
+            },
+            {
+              "text": "lmak",
+              "start": 90.312,
+              "end": 90.598
+            }
+          ]
+        },
+        {
+          "text": "ister",
+          "start": 90.598,
+          "end": 91.169,
+          "confidence": 0.942,
+          "syllables": [
+            {
+              "text": "i",
+              "start": 90.598,
+              "end": 90.883
+            },
+            {
+              "text": "ster",
+              "start": 90.883,
+              "end": 91.169
+            }
+          ]
+        },
+        {
+          "text": "gözümde",
+          "start": 91.169,
+          "end": 91.74,
+          "confidence": 0.942,
+          "syllables": [
+            {
+              "text": "göz",
+              "start": 91.169,
+              "end": 91.359
+            },
+            {
+              "text": "zü",
+              "start": 91.359,
+              "end": 91.55
+            },
+            {
+              "text": "mde",
+              "start": 91.55,
+              "end": 91.74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aligned_015",
+      "text": "İmdat bir ihtimal daha gel beni kurtar",
+      "start": 93.14,
+      "end": 139.44,
+      "confidence": 0.914,
+      "alignment_quality": 0.08253205128205128,
+      "words": [
+        {
+          "text": "İmdat",
+          "start": 93.14,
+          "end": 99.754,
+          "confidence": 0.914,
+          "syllables": [
+            {
+              "text": "İ",
+              "start": 93.14,
+              "end": 96.447
+            },
+            {
+              "text": "mdat",
+              "start": 96.447,
+              "end": 99.754
+            }
+          ]
+        },
+        {
+          "text": "bir",
+          "start": 99.754,
+          "end": 106.369,
+          "confidence": 0.914,
+          "syllables": [
+            {
+              "text": "bir",
+              "start": 99.754,
+              "end": 106.369
+            }
+          ],
+          "translation": {
+            "literal": "one",
+            "contextual": "one"
+          }
+        },
+        {
+          "text": "ihtimal",
+          "start": 106.369,
+          "end": 112.983,
+          "confidence": 0.914,
+          "syllables": [
+            {
+              "text": "i",
+              "start": 106.369,
+              "end": 108.573
+            },
+            {
+              "text": "htim",
+              "start": 108.573,
+              "end": 110.778
+            },
+            {
+              "text": "mal",
+              "start": 110.778,
+              "end": 112.983
+            }
+          ]
+        },
+        {
+          "text": "daha",
+          "start": 112.983,
+          "end": 119.597,
+          "confidence": 0.914,
+          "syllables": [
+            {
+              "text": "dah",
+              "start": 112.983,
+              "end": 116.29
+            },
+            {
+              "text": "ha",
+              "start": 116.29,
+              "end": 119.597
+            }
+          ]
+        },
+        {
+          "text": "gel",
+          "start": 119.597,
+          "end": 126.211,
+          "confidence": 0.914,
+          "syllables": [
+            {
+              "text": "gel",
+              "start": 119.597,
+              "end": 126.211
+            }
+          ]
+        },
+        {
+          "text": "beni",
+          "start": 126.211,
+          "end": 132.826,
+          "confidence": 0.914,
+          "syllables": [
+            {
+              "text": "ben",
+              "start": 126.211,
+              "end": 129.519
+            },
+            {
+              "text": "ni",
+              "start": 129.519,
+              "end": 132.826
+            }
+          ],
+          "translation": {
+            "literal": "me",
+            "contextual": "me"
+          }
+        },
+        {
+          "text": "kurtar",
+          "start": 132.826,
+          "end": 139.44,
+          "confidence": 0.914,
+          "syllables": [
+            {
+              "text": "ku",
+              "start": 132.826,
+              "end": 136.133
+            },
+            {
+              "text": "rtar",
+              "start": 136.133,
+              "end": 139.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aligned_016",
+      "text": "Benden bu kadar zor olsa da şartlar",
+      "start": 140.0,
+      "end": 141.82,
+      "confidence": 0.999,
+      "alignment_quality": 0.0,
+      "words": [
+        {
+          "text": "Benden",
+          "start": 140.0,
+          "end": 140.26,
+          "confidence": 0.999,
+          "syllables": [
+            {
+              "text": "Be",
+              "start": 140.0,
+              "end": 140.13
+            },
+            {
+              "text": "nden",
+              "start": 140.13,
+              "end": 140.26
+            }
+          ]
+        },
+        {
+          "text": "bu",
+          "start": 140.26,
+          "end": 140.52,
+          "confidence": 0.999,
+          "syllables": [
+            {
+              "text": "bu",
+              "start": 140.26,
+              "end": 140.52
+            }
+          ]
+        },
+        {
+          "text": "kadar",
+          "start": 140.52,
+          "end": 140.78,
+          "confidence": 0.999,
+          "syllables": [
+            {
+              "text": "kad",
+              "start": 140.52,
+              "end": 140.65
+            },
+            {
+              "text": "dar",
+              "start": 140.65,
+              "end": 140.78
+            }
+          ]
+        },
+        {
+          "text": "zor",
+          "start": 140.78,
+          "end": 141.04,
+          "confidence": 0.999,
+          "syllables": [
+            {
+              "text": "zor",
+              "start": 140.78,
+              "end": 141.04
+            }
+          ]
+        },
+        {
+          "text": "olsa",
+          "start": 141.04,
+          "end": 141.3,
+          "confidence": 0.999,
+          "syllables": [
+            {
+              "text": "o",
+              "start": 141.04,
+              "end": 141.17
+            },
+            {
+              "text": "lsa",
+              "start": 141.17,
+              "end": 141.3
+            }
+          ]
+        },
+        {
+          "text": "da",
+          "start": 141.3,
+          "end": 141.56,
+          "confidence": 0.999,
+          "syllables": [
+            {
+              "text": "da",
+              "start": 141.3,
+              "end": 141.56
+            }
+          ]
+        },
+        {
+          "text": "şartlar",
+          "start": 141.56,
+          "end": 141.82,
+          "confidence": 0.999,
+          "syllables": [
+            {
+              "text": "şa",
+              "start": 141.56,
+              "end": 141.69
+            },
+            {
+              "text": "rtlar",
+              "start": 141.69,
+              "end": 141.82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aligned_017",
+      "text": "Sabrım gerilir patlar bir anda",
+      "start": 150.0,
+      "end": 162.0,
+      "confidence": 0.862,
+      "alignment_quality": 0.0,
+      "words": [
+        {
+          "text": "Sabrım",
+          "start": 150.0,
+          "end": 152.4,
+          "confidence": 0.862,
+          "syllables": [
+            {
+              "text": "Sa",
+              "start": 150.0,
+              "end": 151.2
+            },
+            {
+              "text": "brım",
+              "start": 151.2,
+              "end": 152.4
+            }
+          ],
+          "translation": {
+            "literal": "my patience",
+            "contextual": "my patience"
+          }
+        },
+        {
+          "text": "gerilir",
+          "start": 152.4,
+          "end": 154.8,
+          "confidence": 0.862,
+          "syllables": [
+            {
+              "text": "ger",
+              "start": 152.4,
+              "end": 153.2
+            },
+            {
+              "text": "ril",
+              "start": 153.2,
+              "end": 154.0
+            },
+            {
+              "text": "lir",
+              "start": 154.0,
+              "end": 154.8
+            }
+          ],
+          "translation": {
+            "literal": "stretches",
+            "contextual": "gets strained"
+          }
+        },
+        {
+          "text": "patlar",
+          "start": 154.8,
+          "end": 157.2,
+          "confidence": 0.862,
+          "syllables": [
+            {
+              "text": "pa",
+              "start": 154.8,
+              "end": 156.0
+            },
+            {
+              "text": "tlar",
+              "start": 156.0,
+              "end": 157.2
+            }
+          ],
+          "translation": {
+            "literal": "explodes",
+            "contextual": "snaps"
+          }
+        },
+        {
+          "text": "bir",
+          "start": 157.2,
+          "end": 159.6,
+          "confidence": 0.862,
+          "syllables": [
+            {
+              "text": "bir",
+              "start": 157.2,
+              "end": 159.6
+            }
+          ],
+          "translation": {
+            "literal": "one",
+            "contextual": "one"
+          }
+        },
+        {
+          "text": "anda",
+          "start": 159.6,
+          "end": 162.0,
+          "confidence": 0.862,
+          "syllables": [
+            {
+              "text": "a",
+              "start": 159.6,
+              "end": 160.8
+            },
+            {
+              "text": "nda",
+              "start": 160.8,
+              "end": 162.0
+            }
+          ],
+          "translation": {
+            "literal": "moment",
+            "contextual": "moment"
+          }
+        }
+      ]
+    }
+  ],
+  "raw_alignments": [
+    {
+      "whisper_segment": {
+        "text": "🎵🎵🎵",
+        "start": 11.4,
+        "end": 11.42,
+        "confidence": 0.527,
+        "words": [
+          {
+            "text": "🎵🎵🎵",
+            "start": 11.4,
+            "end": 11.42,
+            "confidence": 0.527
+          }
+        ]
+      },
+      "reference_line": "Yana yana sevdik bazen",
+      "whisper_index": 0,
+      "reference_index": 0,
+      "similarity": 0.0
+    },
+    {
+      "whisper_segment": {
+        "text": "🎵🎵🎵",
+        "start": 13.74,
+        "end": 14.96,
+        "confidence": 0.97,
+        "words": [
+          {
+            "text": "🎵🎵🎵",
+            "start": 13.74,
+            "end": 14.96,
+            "confidence": 0.97
+          }
+        ]
+      },
+      "reference_line": "Yana yana sevdik bazen",
+      "whisper_index": 1,
+      "reference_index": 0,
+      "similarity": 0.0
+    },
+    {
+      "whisper_segment": {
+        "text": "Yana sevdik bazen çok kez unutulup gidenin ardından hep",
+        "start": 19.060000000000002,
+        "end": 26.72,
+        "confidence": 0.827,
+        "words": [
+          {
+            "text": "Yana",
+            "start": 20.0,
+            "end": 20.58,
+            "confidence": 0.439
+          },
+          {
+            "text": "sevdik",
+            "start": 20.58,
+            "end": 21.42,
+            "confidence": 0.986
+          },
+          {
+            "text": "bazen",
+            "start": 21.42,
+            "end": 22.12,
+            "confidence": 0.995
+          },
+          {
+            "text": "çok",
+            "start": 22.12,
+            "end": 22.36,
+            "confidence": 0.465
+          },
+          {
+            "text": "kez",
+            "start": 22.36,
+            "end": 22.88,
+            "confidence": 0.988
+          },
+          {
+            "text": "unutulup",
+            "start": 22.88,
+            "end": 24.36,
+            "confidence": 0.957
+          },
+          {
+            "text": "gidenin",
+            "start": 24.36,
+            "end": 25.28,
+            "confidence": 0.833
+          },
+          {
+            "text": "ardından",
+            "start": 25.28,
+            "end": 26.259999999999998,
+            "confidence": 0.994
+          },
+          {
+            "text": "hep",
+            "start": 26.259999999999998,
+            "end": 26.72,
+            "confidence": 0.647
+          }
+        ]
+      },
+      "reference_line": "Çok kez unutulup gidinin ardından",
+      "whisper_index": 2,
+      "reference_index": 1,
+      "similarity": 0.4
+    },
+    {
+      "whisper_segment": {
+        "text": "Bozuksa ruhun zaten bana yazık olur",
+        "start": 27.44,
+        "end": 38.62,
+        "confidence": 0.937,
+        "words": [
+          {
+            "text": "Bozuksa",
+            "start": 34.68,
+            "end": 35.46,
+            "confidence": 0.82
+          },
+          {
+            "text": "ruhun",
+            "start": 35.46,
+            "end": 36.42,
+            "confidence": 0.981
+          },
+          {
+            "text": "zaten",
+            "start": 36.42,
+            "end": 36.78,
+            "confidence": 0.995
+          },
+          {
+            "text": "bana",
+            "start": 36.78,
+            "end": 37.36,
+            "confidence": 0.997
+          },
+          {
+            "text": "yazık",
+            "start": 37.36,
+            "end": 38.16,
+            "confidence": 1.0
+          },
+          {
+            "text": "olur",
+            "start": 38.16,
+            "end": 38.62,
+            "confidence": 0.999
+          }
+        ]
+      },
+      "reference_line": "Çok kez unutulup gidinin ardından",
+      "whisper_index": 3,
+      "reference_index": 1,
+      "similarity": 0.0
+    },
+    {
+      "whisper_segment": {
+        "text": "Sevdik bazen çok kez unutulup gidenin ardında ne?",
+        "start": 38.94,
+        "end": 45.8,
+        "confidence": 0.846,
+        "words": [
+          {
+            "text": "Sevdik",
+            "start": 40.0,
+            "end": 40.58,
+            "confidence": 0.926
+          },
+          {
+            "text": "bazen",
+            "start": 40.58,
+            "end": 41.24,
+            "confidence": 0.988
+          },
+          {
+            "text": "çok",
+            "start": 41.24,
+            "end": 41.6,
+            "confidence": 0.799
+          },
+          {
+            "text": "kez",
+            "start": 41.6,
+            "end": 42.12,
+            "confidence": 0.849
+          },
+          {
+            "text": "unutulup",
+            "start": 42.12,
+            "end": 43.52,
+            "confidence": 0.967
+          },
+          {
+            "text": "gidenin",
+            "start": 43.52,
+            "end": 44.46,
+            "confidence": 0.714
+          },
+          {
+            "text": "ardında",
+            "start": 44.46,
+            "end": 45.46,
+            "confidence": 0.698
+          },
+          {
+            "text": "ne?",
+            "start": 45.46,
+            "end": 45.8,
+            "confidence": 0.811
+          }
+        ]
+      },
+      "reference_line": "Çok kez unutulup gidinin ardından",
+      "whisper_index": 4,
+      "reference_index": 1,
+      "similarity": 0.3
+    },
+    {
+      "whisper_segment": {
+        "text": "Kar olan bir kul varsa sözüne güven",
+        "start": 46.6,
+        "end": 50.82,
+        "confidence": 0.956,
+        "words": [
+          {
+            "text": "Kar",
+            "start": 46.6,
+            "end": 46.9,
+            "confidence": 0.832
+          },
+          {
+            "text": "olan",
+            "start": 46.9,
+            "end": 47.18,
+            "confidence": 0.985
+          },
+          {
+            "text": "bir",
+            "start": 47.18,
+            "end": 47.519999999999996,
+            "confidence": 0.995
+          },
+          {
+            "text": "kul",
+            "start": 47.519999999999996,
+            "end": 47.88,
+            "confidence": 0.903
+          },
+          {
+            "text": "varsa",
+            "start": 47.88,
+            "end": 49.019999999999996,
+            "confidence": 0.949
+          },
+          {
+            "text": "sözüne",
+            "start": 49.019999999999996,
+            "end": 50.0,
+            "confidence": 0.988
+          },
+          {
+            "text": "güven",
+            "start": 50.0,
+            "end": 50.82,
+            "confidence": 0.988
+          }
+        ]
+      },
+      "reference_line": "Ne kar olan bir kul",
+      "whisper_index": 5,
+      "reference_index": 2,
+      "similarity": 0.42857142857142855
+    },
+    {
+      "whisper_segment": {
+        "text": "Kar olan bir kul varsa sözüne güven",
+        "start": 46.6,
+        "end": 50.82,
+        "confidence": 0.956,
+        "words": [
+          {
+            "text": "Kar",
+            "start": 46.6,
+            "end": 46.9,
+            "confidence": 0.832
+          },
+          {
+            "text": "olan",
+            "start": 46.9,
+            "end": 47.18,
+            "confidence": 0.985
+          },
+          {
+            "text": "bir",
+            "start": 47.18,
+            "end": 47.519999999999996,
+            "confidence": 0.995
+          },
+          {
+            "text": "kul",
+            "start": 47.519999999999996,
+            "end": 47.88,
+            "confidence": 0.903
+          },
+          {
+            "text": "varsa",
+            "start": 47.88,
+            "end": 49.019999999999996,
+            "confidence": 0.949
+          },
+          {
+            "text": "sözüne",
+            "start": 49.019999999999996,
+            "end": 50.0,
+            "confidence": 0.988
+          },
+          {
+            "text": "güven",
+            "start": 50.0,
+            "end": 50.82,
+            "confidence": 0.988
+          }
+        ]
+      },
+      "reference_line": "Varsa sözüme güven beni anla",
+      "whisper_index": 5,
+      "reference_index": 3,
+      "similarity": 0.2222222222222222
+    },
+    {
+      "whisper_segment": {
+        "text": "Kar olan bir kul varsa sözüne güven",
+        "start": 46.6,
+        "end": 50.82,
+        "confidence": 0.956,
+        "words": [
+          {
+            "text": "Kar",
+            "start": 46.6,
+            "end": 46.9,
+            "confidence": 0.832
+          },
+          {
+            "text": "olan",
+            "start": 46.9,
+            "end": 47.18,
+            "confidence": 0.985
+          },
+          {
+            "text": "bir",
+            "start": 47.18,
+            "end": 47.519999999999996,
+            "confidence": 0.995
+          },
+          {
+            "text": "kul",
+            "start": 47.519999999999996,
+            "end": 47.88,
+            "confidence": 0.903
+          },
+          {
+            "text": "varsa",
+            "start": 47.88,
+            "end": 49.019999999999996,
+            "confidence": 0.949
+          },
+          {
+            "text": "sözüne",
+            "start": 49.019999999999996,
+            "end": 50.0,
+            "confidence": 0.988
+          },
+          {
+            "text": "güven",
+            "start": 50.0,
+            "end": 50.82,
+            "confidence": 0.988
+          }
+        ]
+      },
+      "reference_line": "Ne olur bozduksa ruhun",
+      "whisper_index": 5,
+      "reference_index": 4,
+      "similarity": 0.0
+    },
+    {
+      "whisper_segment": {
+        "text": "Bozuksa ruhum zaten bana yazık olur",
+        "start": 51.44,
+        "end": 57.88,
+        "confidence": 0.977,
+        "words": [
+          {
+            "text": "Bozuksa",
+            "start": 53.88,
+            "end": 54.6,
+            "confidence": 0.95
+          },
+          {
+            "text": "ruhum",
+            "start": 54.6,
+            "end": 55.62,
+            "confidence": 0.978
+          },
+          {
+            "text": "zaten",
+            "start": 55.62,
+            "end": 56.0,
+            "confidence": 0.996
+          },
+          {
+            "text": "bana",
+            "start": 56.0,
+            "end": 56.6,
+            "confidence": 0.989
+          },
+          {
+            "text": "yazık",
+            "start": 56.6,
+            "end": 57.4,
+            "confidence": 0.991
+          },
+          {
+            "text": "olur",
+            "start": 57.4,
+            "end": 57.88,
+            "confidence": 0.999
+          }
+        ]
+      },
+      "reference_line": "Zaten bana yazık olur",
+      "whisper_index": 6,
+      "reference_index": 5,
+      "similarity": 0.6666666666666666
+    },
+    {
+      "whisper_segment": {
+        "text": "Yazık olur",
+        "start": 59.14,
+        "end": 60.24,
+        "confidence": 0.999,
+        "words": [
+          {
+            "text": "Yazık",
+            "start": 59.14,
+            "end": 59.78,
+            "confidence": 0.999
+          },
+          {
+            "text": "olur",
+            "start": 59.78,
+            "end": 60.24,
+            "confidence": 0.999
+          }
+        ]
+      },
+      "reference_line": "Yazık olur",
+      "whisper_index": 7,
+      "reference_index": 6,
+      "similarity": 1.0
+    }
+  ]
+}

@@ -1,0 +1,1322 @@
+{
+  "language": "tur",
+  "segments": [
+    {
+      "id": "elevenlabs_000",
+      "text": "Yana yana sevdik bazen çok kez unutulup gidenin ardında ne?",
+      "start": 17.34,
+      "end": 26.879,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Yana",
+          "start": 17.34,
+          "end": 20.199,
+          "confidence": 1.0
+        },
+        {
+          "text": "yana",
+          "start": 20.319,
+          "end": 20.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "sevdik",
+          "start": 20.859,
+          "end": 21.479,
+          "confidence": 1.0
+        },
+        {
+          "text": "bazen",
+          "start": 21.539,
+          "end": 22.26,
+          "confidence": 1.0
+        },
+        {
+          "text": "çok",
+          "start": 22.34,
+          "end": 22.639,
+          "confidence": 1.0
+        },
+        {
+          "text": "kez",
+          "start": 22.719,
+          "end": 23.1,
+          "confidence": 1.0
+        },
+        {
+          "text": "unutulup",
+          "start": 23.1,
+          "end": 24.479,
+          "confidence": 1.0
+        },
+        {
+          "text": "gidenin",
+          "start": 24.539,
+          "end": 25.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "ardında",
+          "start": 25.5,
+          "end": 26.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "ne?",
+          "start": 26.579,
+          "end": 26.879,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_001",
+      "text": "Kahrolan bi kul.",
+      "start": 27.5,
+      "end": 29.1,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Kahrolan",
+          "start": 27.5,
+          "end": 28.219,
+          "confidence": 1.0
+        },
+        {
+          "text": "bi",
+          "start": 28.279,
+          "end": 28.359,
+          "confidence": 1.0
+        },
+        {
+          "text": "kul.",
+          "start": 28.459,
+          "end": 29.1,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_002",
+      "text": "Varsa sözüme güven,",
+      "start": 29.279,
+      "end": 31.979,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Varsa",
+          "start": 29.279,
+          "end": 30.099,
+          "confidence": 1.0
+        },
+        {
+          "text": "sözüme",
+          "start": 30.159,
+          "end": 31.039,
+          "confidence": 1.0
+        },
+        {
+          "text": "güven,",
+          "start": 31.119,
+          "end": 31.979,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_003",
+      "text": "beni anla n'olur.",
+      "start": 32.319,
+      "end": 34.44,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "beni",
+          "start": 32.319,
+          "end": 32.659,
+          "confidence": 1.0
+        },
+        {
+          "text": "anla",
+          "start": 32.739,
+          "end": 33.38,
+          "confidence": 1.0
+        },
+        {
+          "text": "n'olur.",
+          "start": 33.52,
+          "end": 34.44,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_004",
+      "text": "Bozuksa ruhun zaten bana yazık olur.",
+      "start": 34.759,
+      "end": 38.919,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Bozuksa",
+          "start": 34.759,
+          "end": 35.639,
+          "confidence": 1.0
+        },
+        {
+          "text": "ruhun",
+          "start": 35.899,
+          "end": 36.479,
+          "confidence": 1.0
+        },
+        {
+          "text": "zaten",
+          "start": 36.52,
+          "end": 37.119,
+          "confidence": 1.0
+        },
+        {
+          "text": "bana",
+          "start": 37.159,
+          "end": 37.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "yazık",
+          "start": 37.7,
+          "end": 38.359,
+          "confidence": 1.0
+        },
+        {
+          "text": "olur.",
+          "start": 38.36,
+          "end": 38.919,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_005",
+      "text": "Yana yana sevdik bazen çok kez unutulup gidenin ardında ne?",
+      "start": 38.919,
+      "end": 46.139,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Yana",
+          "start": 38.919,
+          "end": 39.479,
+          "confidence": 1.0
+        },
+        {
+          "text": "yana",
+          "start": 39.52,
+          "end": 40.059,
+          "confidence": 1.0
+        },
+        {
+          "text": "sevdik",
+          "start": 40.079,
+          "end": 40.699,
+          "confidence": 1.0
+        },
+        {
+          "text": "bazen",
+          "start": 40.759,
+          "end": 41.459,
+          "confidence": 1.0
+        },
+        {
+          "text": "çok",
+          "start": 41.52,
+          "end": 41.859,
+          "confidence": 1.0
+        },
+        {
+          "text": "kez",
+          "start": 41.979,
+          "end": 42.319,
+          "confidence": 1.0
+        },
+        {
+          "text": "unutulup",
+          "start": 42.36,
+          "end": 43.719,
+          "confidence": 1.0
+        },
+        {
+          "text": "gidenin",
+          "start": 43.759,
+          "end": 44.659,
+          "confidence": 1.0
+        },
+        {
+          "text": "ardında",
+          "start": 44.7,
+          "end": 45.719,
+          "confidence": 1.0
+        },
+        {
+          "text": "ne?",
+          "start": 45.86,
+          "end": 46.139,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_006",
+      "text": "Kahrolan bi kul.",
+      "start": 46.7,
+      "end": 48.239,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Kahrolan",
+          "start": 46.7,
+          "end": 47.459,
+          "confidence": 1.0
+        },
+        {
+          "text": "bi",
+          "start": 47.5,
+          "end": 47.599,
+          "confidence": 1.0
+        },
+        {
+          "text": "kul.",
+          "start": 47.7,
+          "end": 48.239,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_007",
+      "text": "Varsa sözüme güven,",
+      "start": 48.5,
+      "end": 51.18,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Varsa",
+          "start": 48.5,
+          "end": 49.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "sözüme",
+          "start": 49.419,
+          "end": 50.279,
+          "confidence": 1.0
+        },
+        {
+          "text": "güven,",
+          "start": 50.34,
+          "end": 51.18,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_008",
+      "text": "beni anla n'olur.",
+      "start": 51.52,
+      "end": 53.659,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "beni",
+          "start": 51.52,
+          "end": 51.859,
+          "confidence": 1.0
+        },
+        {
+          "text": "anla",
+          "start": 51.939,
+          "end": 52.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "n'olur.",
+          "start": 52.719,
+          "end": 53.659,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_009",
+      "text": "Bozuksa ruhun zaten bana yazık olur.",
+      "start": 53.959,
+      "end": 59.359,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Bozuksa",
+          "start": 53.959,
+          "end": 54.919,
+          "confidence": 1.0
+        },
+        {
+          "text": "ruhun",
+          "start": 55.099,
+          "end": 55.699,
+          "confidence": 1.0
+        },
+        {
+          "text": "zaten",
+          "start": 55.759,
+          "end": 56.319,
+          "confidence": 1.0
+        },
+        {
+          "text": "bana",
+          "start": 56.379,
+          "end": 56.879,
+          "confidence": 1.0
+        },
+        {
+          "text": "yazık",
+          "start": 56.899,
+          "end": 57.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "olur.",
+          "start": 57.639,
+          "end": 59.359,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_010",
+      "text": "Yazık olur.",
+      "start": 59.379,
+      "end": 61.219,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Yazık",
+          "start": 59.379,
+          "end": 59.959,
+          "confidence": 1.0
+        },
+        {
+          "text": "olur.",
+          "start": 60.0,
+          "end": 61.219,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_011",
+      "text": "Bir gün gelecek,",
+      "start": 62.919,
+      "end": 64.059,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Bir",
+          "start": 62.919,
+          "end": 63.179,
+          "confidence": 1.0
+        },
+        {
+          "text": "gün",
+          "start": 63.199,
+          "end": 63.459,
+          "confidence": 1.0
+        },
+        {
+          "text": "gelecek,",
+          "start": 63.5,
+          "end": 64.059,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_012",
+      "text": "her yüzü göreceksin.",
+      "start": 64.159,
+      "end": 65.699,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "her",
+          "start": 64.159,
+          "end": 64.319,
+          "confidence": 1.0
+        },
+        {
+          "text": "yüzü",
+          "start": 64.379,
+          "end": 64.659,
+          "confidence": 1.0
+        },
+        {
+          "text": "göreceksin.",
+          "start": 64.699,
+          "end": 65.699,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_013",
+      "text": "Tattığın her sözün ve her günün boşa geçtiğini öğreneceksin.",
+      "start": 65.9,
+      "end": 70.6,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Tattığın",
+          "start": 65.9,
+          "end": 66.539,
+          "confidence": 1.0
+        },
+        {
+          "text": "her",
+          "start": 66.54,
+          "end": 66.719,
+          "confidence": 1.0
+        },
+        {
+          "text": "sözün",
+          "start": 66.779,
+          "end": 67.239,
+          "confidence": 1.0
+        },
+        {
+          "text": "ve",
+          "start": 67.279,
+          "end": 67.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "her",
+          "start": 67.419,
+          "end": 67.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "günün",
+          "start": 67.739,
+          "end": 68.119,
+          "confidence": 1.0
+        },
+        {
+          "text": "boşa",
+          "start": 68.299,
+          "end": 68.599,
+          "confidence": 1.0
+        },
+        {
+          "text": "geçtiğini",
+          "start": 68.639,
+          "end": 69.179,
+          "confidence": 1.0
+        },
+        {
+          "text": "öğreneceksin.",
+          "start": 69.299,
+          "end": 70.6,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_014",
+      "text": "Yine aynı yerde kalıp gidersen yarım kalır.",
+      "start": 70.72,
+      "end": 75.28,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Yine",
+          "start": 70.72,
+          "end": 71.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "aynı",
+          "start": 71.059,
+          "end": 71.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "yerde",
+          "start": 71.439,
+          "end": 71.979,
+          "confidence": 1.0
+        },
+        {
+          "text": "kalıp",
+          "start": 72.04,
+          "end": 72.62,
+          "confidence": 1.0
+        },
+        {
+          "text": "gidersen",
+          "start": 73.119,
+          "end": 73.9,
+          "confidence": 1.0
+        },
+        {
+          "text": "yarım",
+          "start": 73.9,
+          "end": 74.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "kalır.",
+          "start": 74.439,
+          "end": 75.28,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_015",
+      "text": "Düştüğü yerden kalkıp yeniden yazılan kaderine güleceksin,",
+      "start": 75.519,
+      "end": 80.379,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Düştüğü",
+          "start": 75.519,
+          "end": 76.079,
+          "confidence": 1.0
+        },
+        {
+          "text": "yerden",
+          "start": 76.139,
+          "end": 76.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "kalkıp",
+          "start": 76.739,
+          "end": 77.319,
+          "confidence": 1.0
+        },
+        {
+          "text": "yeniden",
+          "start": 77.36,
+          "end": 77.919,
+          "confidence": 1.0
+        },
+        {
+          "text": "yazılan",
+          "start": 77.939,
+          "end": 78.48,
+          "confidence": 1.0
+        },
+        {
+          "text": "kaderine",
+          "start": 78.5,
+          "end": 79.079,
+          "confidence": 1.0
+        },
+        {
+          "text": "güleceksin,",
+          "start": 79.099,
+          "end": 80.379,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_016",
+      "text": "oh.",
+      "start": 80.379,
+      "end": 81.079,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "oh.",
+          "start": 80.379,
+          "end": 81.079,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_017",
+      "text": "Zaman hiç vermedi aman.",
+      "start": 81.639,
+      "end": 84.519,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Zaman",
+          "start": 81.639,
+          "end": 82.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "hiç",
+          "start": 82.72,
+          "end": 83.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "vermedi",
+          "start": 83.04,
+          "end": 83.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "aman.",
+          "start": 83.819,
+          "end": 84.519,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_018",
+      "text": "Geçiyor tüm teselliler yalan.",
+      "start": 84.519,
+      "end": 86.779,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Geçiyor",
+          "start": 84.519,
+          "end": 85.099,
+          "confidence": 1.0
+        },
+        {
+          "text": "tüm",
+          "start": 85.099,
+          "end": 85.379,
+          "confidence": 1.0
+        },
+        {
+          "text": "teselliler",
+          "start": 85.419,
+          "end": 86.279,
+          "confidence": 1.0
+        },
+        {
+          "text": "yalan.",
+          "start": 86.319,
+          "end": 86.779,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_019",
+      "text": "Ben büyütmek istesem de onlar küçük kalmak ister gözümde imdat",
+      "start": 86.959,
+      "end": 91.839,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Ben",
+          "start": 86.959,
+          "end": 87.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "büyütmek",
+          "start": 87.259,
+          "end": 87.919,
+          "confidence": 1.0
+        },
+        {
+          "text": "istesem",
+          "start": 87.939,
+          "end": 88.559,
+          "confidence": 1.0
+        },
+        {
+          "text": "de",
+          "start": 88.58,
+          "end": 88.739,
+          "confidence": 1.0
+        },
+        {
+          "text": "onlar",
+          "start": 88.759,
+          "end": 89.279,
+          "confidence": 1.0
+        },
+        {
+          "text": "küçük",
+          "start": 89.319,
+          "end": 89.739,
+          "confidence": 1.0
+        },
+        {
+          "text": "kalmak",
+          "start": 89.799,
+          "end": 90.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "ister",
+          "start": 90.319,
+          "end": 90.819,
+          "confidence": 1.0
+        },
+        {
+          "text": "gözümde",
+          "start": 90.86,
+          "end": 91.479,
+          "confidence": 1.0
+        },
+        {
+          "text": "imdat",
+          "start": 91.479,
+          "end": 91.839,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_020",
+      "text": ".",
+      "start": 93.079,
+      "end": 93.099,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": ".",
+          "start": 93.079,
+          "end": 93.099,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_021",
+      "text": "Gel beni kurtar",
+      "start": 93.259,
+      "end": 94.339,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Gel",
+          "start": 93.259,
+          "end": 93.52,
+          "confidence": 1.0
+        },
+        {
+          "text": "beni",
+          "start": 93.54,
+          "end": 93.819,
+          "confidence": 1.0
+        },
+        {
+          "text": "kurtar",
+          "start": 93.86,
+          "end": 94.339,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_022",
+      "text": "zor olsa da şartlar.",
+      "start": 95.459,
+      "end": 97.119,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "zor",
+          "start": 95.459,
+          "end": 95.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "olsa",
+          "start": 95.739,
+          "end": 96.059,
+          "confidence": 1.0
+        },
+        {
+          "text": "da",
+          "start": 96.079,
+          "end": 96.219,
+          "confidence": 1.0
+        },
+        {
+          "text": "şartlar.",
+          "start": 96.22,
+          "end": 97.119,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_023",
+      "text": "Sabrım gerilir,",
+      "start": 97.119,
+      "end": 98.279,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Sabrım",
+          "start": 97.119,
+          "end": 97.679,
+          "confidence": 1.0
+        },
+        {
+          "text": "gerilir,",
+          "start": 97.759,
+          "end": 98.279,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_024",
+      "text": "patlar bir anda.",
+      "start": 98.36,
+      "end": 100.719,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "patlar",
+          "start": 98.36,
+          "end": 99.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "bir",
+          "start": 99.4,
+          "end": 99.979,
+          "confidence": 1.0
+        },
+        {
+          "text": "anda.",
+          "start": 99.979,
+          "end": 100.719,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_025",
+      "text": "Yana yana sevdik bazen çok kez unutulup gidenin ardında ne?",
+      "start": 100.72,
+      "end": 108.499,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Yana",
+          "start": 100.72,
+          "end": 101.619,
+          "confidence": 1.0
+        },
+        {
+          "text": "yana",
+          "start": 101.9,
+          "end": 102.419,
+          "confidence": 1.0
+        },
+        {
+          "text": "sevdik",
+          "start": 102.479,
+          "end": 103.079,
+          "confidence": 1.0
+        },
+        {
+          "text": "bazen",
+          "start": 103.119,
+          "end": 103.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "çok",
+          "start": 103.919,
+          "end": 104.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "kez",
+          "start": 104.319,
+          "end": 104.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "unutulup",
+          "start": 104.72,
+          "end": 106.059,
+          "confidence": 1.0
+        },
+        {
+          "text": "gidenin",
+          "start": 106.139,
+          "end": 107.059,
+          "confidence": 1.0
+        },
+        {
+          "text": "ardında",
+          "start": 107.119,
+          "end": 108.099,
+          "confidence": 1.0
+        },
+        {
+          "text": "ne?",
+          "start": 108.199,
+          "end": 108.499,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_026",
+      "text": "Kahrolan bi kul.",
+      "start": 109.119,
+      "end": 110.699,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Kahrolan",
+          "start": 109.119,
+          "end": 109.819,
+          "confidence": 1.0
+        },
+        {
+          "text": "bi",
+          "start": 109.879,
+          "end": 109.959,
+          "confidence": 1.0
+        },
+        {
+          "text": "kul.",
+          "start": 110.059,
+          "end": 110.699,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_027",
+      "text": "Varsa sözüme güven,",
+      "start": 110.879,
+      "end": 113.659,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Varsa",
+          "start": 110.879,
+          "end": 111.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "sözüme",
+          "start": 111.759,
+          "end": 112.679,
+          "confidence": 1.0
+        },
+        {
+          "text": "güven,",
+          "start": 112.72,
+          "end": 113.659,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_028",
+      "text": "beni anla n'olur.",
+      "start": 113.919,
+      "end": 116.119,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "beni",
+          "start": 113.919,
+          "end": 114.26,
+          "confidence": 1.0
+        },
+        {
+          "text": "anla",
+          "start": 114.299,
+          "end": 114.999,
+          "confidence": 1.0
+        },
+        {
+          "text": "n'olur.",
+          "start": 115.139,
+          "end": 116.119,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_029",
+      "text": "Bozuksa ruhun zaten bana yazık olur.",
+      "start": 116.319,
+      "end": 120.559,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Bozuksa",
+          "start": 116.319,
+          "end": 117.239,
+          "confidence": 1.0
+        },
+        {
+          "text": "ruhun",
+          "start": 117.5,
+          "end": 118.079,
+          "confidence": 1.0
+        },
+        {
+          "text": "zaten",
+          "start": 118.119,
+          "end": 118.739,
+          "confidence": 1.0
+        },
+        {
+          "text": "bana",
+          "start": 118.739,
+          "end": 119.279,
+          "confidence": 1.0
+        },
+        {
+          "text": "yazık",
+          "start": 119.319,
+          "end": 119.959,
+          "confidence": 1.0
+        },
+        {
+          "text": "olur.",
+          "start": 119.979,
+          "end": 120.559,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_030",
+      "text": "Yana yana sevdik bazen çok kez unutulup gidenin ardında ne?",
+      "start": 120.579,
+      "end": 127.699,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Yana",
+          "start": 120.579,
+          "end": 121.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "yana",
+          "start": 121.119,
+          "end": 121.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "sevdik",
+          "start": 121.68,
+          "end": 122.299,
+          "confidence": 1.0
+        },
+        {
+          "text": "bazen",
+          "start": 122.339,
+          "end": 123.059,
+          "confidence": 1.0
+        },
+        {
+          "text": "çok",
+          "start": 123.139,
+          "end": 123.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "kez",
+          "start": 123.519,
+          "end": 123.919,
+          "confidence": 1.0
+        },
+        {
+          "text": "unutulup",
+          "start": 123.939,
+          "end": 125.319,
+          "confidence": 1.0
+        },
+        {
+          "text": "gidenin",
+          "start": 125.339,
+          "end": 126.259,
+          "confidence": 1.0
+        },
+        {
+          "text": "ardında",
+          "start": 126.319,
+          "end": 127.319,
+          "confidence": 1.0
+        },
+        {
+          "text": "ne?",
+          "start": 127.419,
+          "end": 127.699,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_031",
+      "text": "Kahrolan bi kul.",
+      "start": 128.3,
+      "end": 129.979,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Kahrolan",
+          "start": 128.3,
+          "end": 129.059,
+          "confidence": 1.0
+        },
+        {
+          "text": "bi",
+          "start": 129.08,
+          "end": 129.159,
+          "confidence": 1.0
+        },
+        {
+          "text": "kul.",
+          "start": 129.259,
+          "end": 129.979,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_032",
+      "text": "Varsa sözüme güven,",
+      "start": 130.099,
+      "end": 132.82,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Varsa",
+          "start": 130.099,
+          "end": 130.939,
+          "confidence": 1.0
+        },
+        {
+          "text": "sözüme",
+          "start": 130.959,
+          "end": 131.859,
+          "confidence": 1.0
+        },
+        {
+          "text": "güven,",
+          "start": 131.919,
+          "end": 132.82,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_033",
+      "text": "beni anla n'olur.",
+      "start": 133.119,
+      "end": 135.26,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "beni",
+          "start": 133.119,
+          "end": 133.459,
+          "confidence": 1.0
+        },
+        {
+          "text": "anla",
+          "start": 133.52,
+          "end": 134.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "n'olur.",
+          "start": 134.319,
+          "end": 135.26,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_034",
+      "text": "Bozuksa ruhun zaten bana yazık olur.",
+      "start": 135.539,
+      "end": 140.939,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Bozuksa",
+          "start": 135.539,
+          "end": 136.479,
+          "confidence": 1.0
+        },
+        {
+          "text": "ruhun",
+          "start": 136.699,
+          "end": 137.279,
+          "confidence": 1.0
+        },
+        {
+          "text": "zaten",
+          "start": 137.319,
+          "end": 137.94,
+          "confidence": 1.0
+        },
+        {
+          "text": "bana",
+          "start": 137.94,
+          "end": 138.479,
+          "confidence": 1.0
+        },
+        {
+          "text": "yazık",
+          "start": 138.539,
+          "end": 139.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "olur.",
+          "start": 139.199,
+          "end": 140.939,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": "elevenlabs_035",
+      "text": "Yazık olur.",
+      "start": 140.979,
+      "end": 142.46,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Yazık",
+          "start": 140.979,
+          "end": 141.519,
+          "confidence": 1.0
+        },
+        {
+          "text": "olur.",
+          "start": 141.599,
+          "end": 142.46,
+          "confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "processing_method": "elevenlabs_scribe",
+  "model": "scribe-v1",
+  "total_duration": 142.46
+}

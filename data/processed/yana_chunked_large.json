@@ -1,0 +1,1086 @@
+{
+  "language": "tr",
+  "segments": [
+    {
+      "text": "🎵🎵🎵",
+      "start": 11.4,
+      "end": 11.42,
+      "confidence": 0.527,
+      "words": [
+        {
+          "text": "🎵🎵🎵",
+          "start": 11.4,
+          "end": 11.42,
+          "confidence": 0.527
+        }
+      ]
+    },
+    {
+      "text": "🎵🎵🎵",
+      "start": 13.74,
+      "end": 14.96,
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "🎵🎵🎵",
+          "start": 13.74,
+          "end": 14.96,
+          "confidence": 0.97
+        }
+      ]
+    },
+    {
+      "text": "Yana sevdik bazen çok kez unutulup gidenin ardından hep",
+      "start": 19.060000000000002,
+      "end": 26.72,
+      "confidence": 0.827,
+      "words": [
+        {
+          "text": "Yana",
+          "start": 20.0,
+          "end": 20.58,
+          "confidence": 0.439
+        },
+        {
+          "text": "sevdik",
+          "start": 20.58,
+          "end": 21.42,
+          "confidence": 0.986
+        },
+        {
+          "text": "bazen",
+          "start": 21.42,
+          "end": 22.12,
+          "confidence": 0.995
+        },
+        {
+          "text": "çok",
+          "start": 22.12,
+          "end": 22.36,
+          "confidence": 0.465
+        },
+        {
+          "text": "kez",
+          "start": 22.36,
+          "end": 22.88,
+          "confidence": 0.988
+        },
+        {
+          "text": "unutulup",
+          "start": 22.88,
+          "end": 24.36,
+          "confidence": 0.957
+        },
+        {
+          "text": "gidenin",
+          "start": 24.36,
+          "end": 25.28,
+          "confidence": 0.833
+        },
+        {
+          "text": "ardından",
+          "start": 25.28,
+          "end": 26.259999999999998,
+          "confidence": 0.994
+        },
+        {
+          "text": "hep",
+          "start": 26.259999999999998,
+          "end": 26.72,
+          "confidence": 0.647
+        }
+      ]
+    },
+    {
+      "text": "Bozuksa ruhun zaten bana yazık olur",
+      "start": 27.44,
+      "end": 38.62,
+      "confidence": 0.937,
+      "words": [
+        {
+          "text": "Bozuksa",
+          "start": 34.68,
+          "end": 35.46,
+          "confidence": 0.82
+        },
+        {
+          "text": "ruhun",
+          "start": 35.46,
+          "end": 36.42,
+          "confidence": 0.981
+        },
+        {
+          "text": "zaten",
+          "start": 36.42,
+          "end": 36.78,
+          "confidence": 0.995
+        },
+        {
+          "text": "bana",
+          "start": 36.78,
+          "end": 37.36,
+          "confidence": 0.997
+        },
+        {
+          "text": "yazık",
+          "start": 37.36,
+          "end": 38.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "olur",
+          "start": 38.16,
+          "end": 38.62,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "text": "Sevdik bazen çok kez unutulup gidenin ardında ne?",
+      "start": 38.94,
+      "end": 45.8,
+      "confidence": 0.846,
+      "words": [
+        {
+          "text": "Sevdik",
+          "start": 40.0,
+          "end": 40.58,
+          "confidence": 0.926
+        },
+        {
+          "text": "bazen",
+          "start": 40.58,
+          "end": 41.24,
+          "confidence": 0.988
+        },
+        {
+          "text": "çok",
+          "start": 41.24,
+          "end": 41.6,
+          "confidence": 0.799
+        },
+        {
+          "text": "kez",
+          "start": 41.6,
+          "end": 42.12,
+          "confidence": 0.849
+        },
+        {
+          "text": "unutulup",
+          "start": 42.12,
+          "end": 43.52,
+          "confidence": 0.967
+        },
+        {
+          "text": "gidenin",
+          "start": 43.52,
+          "end": 44.46,
+          "confidence": 0.714
+        },
+        {
+          "text": "ardında",
+          "start": 44.46,
+          "end": 45.46,
+          "confidence": 0.698
+        },
+        {
+          "text": "ne?",
+          "start": 45.46,
+          "end": 45.8,
+          "confidence": 0.811
+        }
+      ]
+    },
+    {
+      "text": "Kar olan bir kul varsa sözüne güven",
+      "start": 46.6,
+      "end": 50.82,
+      "confidence": 0.956,
+      "words": [
+        {
+          "text": "Kar",
+          "start": 46.6,
+          "end": 46.9,
+          "confidence": 0.832
+        },
+        {
+          "text": "olan",
+          "start": 46.9,
+          "end": 47.18,
+          "confidence": 0.985
+        },
+        {
+          "text": "bir",
+          "start": 47.18,
+          "end": 47.519999999999996,
+          "confidence": 0.995
+        },
+        {
+          "text": "kul",
+          "start": 47.519999999999996,
+          "end": 47.88,
+          "confidence": 0.903
+        },
+        {
+          "text": "varsa",
+          "start": 47.88,
+          "end": 49.019999999999996,
+          "confidence": 0.949
+        },
+        {
+          "text": "sözüne",
+          "start": 49.019999999999996,
+          "end": 50.0,
+          "confidence": 0.988
+        },
+        {
+          "text": "güven",
+          "start": 50.0,
+          "end": 50.82,
+          "confidence": 0.988
+        }
+      ]
+    },
+    {
+      "text": "Bozuksa ruhum zaten bana yazık olur",
+      "start": 51.44,
+      "end": 57.88,
+      "confidence": 0.977,
+      "words": [
+        {
+          "text": "Bozuksa",
+          "start": 53.88,
+          "end": 54.6,
+          "confidence": 0.95
+        },
+        {
+          "text": "ruhum",
+          "start": 54.6,
+          "end": 55.62,
+          "confidence": 0.978
+        },
+        {
+          "text": "zaten",
+          "start": 55.62,
+          "end": 56.0,
+          "confidence": 0.996
+        },
+        {
+          "text": "bana",
+          "start": 56.0,
+          "end": 56.6,
+          "confidence": 0.989
+        },
+        {
+          "text": "yazık",
+          "start": 56.6,
+          "end": 57.4,
+          "confidence": 0.991
+        },
+        {
+          "text": "olur",
+          "start": 57.4,
+          "end": 57.88,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "text": "Yazık olur",
+      "start": 59.14,
+      "end": 60.24,
+      "confidence": 0.999,
+      "words": [
+        {
+          "text": "Yazık",
+          "start": 59.14,
+          "end": 59.78,
+          "confidence": 0.999
+        },
+        {
+          "text": "olur",
+          "start": 59.78,
+          "end": 60.24,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "text": "Bir gün gelecek her yüzü göreceksin",
+      "start": 62.82,
+      "end": 65.26,
+      "confidence": 0.929,
+      "words": [
+        {
+          "text": "Bir",
+          "start": 62.88,
+          "end": 62.9,
+          "confidence": 0.584
+        },
+        {
+          "text": "gün",
+          "start": 62.9,
+          "end": 63.16,
+          "confidence": 0.979
+        },
+        {
+          "text": "gelecek",
+          "start": 63.16,
+          "end": 63.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "her",
+          "start": 63.72,
+          "end": 64.12,
+          "confidence": 0.975
+        },
+        {
+          "text": "yüzü",
+          "start": 64.12,
+          "end": 64.62,
+          "confidence": 0.999
+        },
+        {
+          "text": "göreceksin",
+          "start": 64.62,
+          "end": 65.26,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "text": "Tattığın her sözün ve her günün boşa geçtiği öğreneceksin",
+      "start": 65.82,
+      "end": 70.08,
+      "confidence": 0.953,
+      "words": [
+        {
+          "text": "Tattığın",
+          "start": 65.82,
+          "end": 66.36,
+          "confidence": 0.97
+        },
+        {
+          "text": "her",
+          "start": 66.36,
+          "end": 66.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "sözün",
+          "start": 66.64,
+          "end": 67.16,
+          "confidence": 0.995
+        },
+        {
+          "text": "ve",
+          "start": 67.16,
+          "end": 67.3,
+          "confidence": 0.998
+        },
+        {
+          "text": "her",
+          "start": 67.3,
+          "end": 67.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "günün",
+          "start": 67.5,
+          "end": 68.02,
+          "confidence": 0.999
+        },
+        {
+          "text": "boşa",
+          "start": 68.02,
+          "end": 68.48,
+          "confidence": 0.776
+        },
+        {
+          "text": "geçtiği",
+          "start": 68.48,
+          "end": 69.03999999999999,
+          "confidence": 0.919
+        },
+        {
+          "text": "öğreneceksin",
+          "start": 69.03999999999999,
+          "end": 70.08,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "text": "Yine aynı yerde kalıp gidersen yarım kalıp",
+      "start": 70.62,
+      "end": 74.88,
+      "confidence": 0.93,
+      "words": [
+        {
+          "text": "Yine",
+          "start": 70.62,
+          "end": 70.9,
+          "confidence": 1.0
+        },
+        {
+          "text": "aynı",
+          "start": 70.9,
+          "end": 71.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "yerde",
+          "start": 71.18,
+          "end": 71.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "kalıp",
+          "start": 71.7,
+          "end": 72.38,
+          "confidence": 0.999
+        },
+        {
+          "text": "gidersen",
+          "start": 72.38,
+          "end": 73.72,
+          "confidence": 0.924
+        },
+        {
+          "text": "yarım",
+          "start": 73.72,
+          "end": 74.28,
+          "confidence": 0.989
+        },
+        {
+          "text": "kalıp",
+          "start": 74.28,
+          "end": 74.88,
+          "confidence": 0.712
+        }
+      ]
+    },
+    {
+      "text": "Düştüğü yerden kalkıp yeniden yazılan kaderine güleceksin",
+      "start": 74.93,
+      "end": 79.7,
+      "confidence": 0.998,
+      "words": [
+        {
+          "text": "Düştüğü",
+          "start": 74.93,
+          "end": 75.98,
+          "confidence": 0.999
+        },
+        {
+          "text": "yerden",
+          "start": 75.98,
+          "end": 76.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "kalkıp",
+          "start": 76.56,
+          "end": 77.2,
+          "confidence": 1.0
+        },
+        {
+          "text": "yeniden",
+          "start": 77.2,
+          "end": 77.68,
+          "confidence": 0.996
+        },
+        {
+          "text": "yazılan",
+          "start": 77.68,
+          "end": 78.26,
+          "confidence": 0.998
+        },
+        {
+          "text": "kaderine",
+          "start": 78.26,
+          "end": 78.96000000000001,
+          "confidence": 0.993
+        },
+        {
+          "text": "güleceksin",
+          "start": 78.96000000000001,
+          "end": 79.7,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "text": "Zaman hiç vermedi aman",
+      "start": 80.0,
+      "end": 83.96,
+      "confidence": 0.908,
+      "words": [
+        {
+          "text": "Zaman",
+          "start": 80.0,
+          "end": 81.94,
+          "confidence": 0.864
+        },
+        {
+          "text": "hiç",
+          "start": 81.94,
+          "end": 82.7,
+          "confidence": 0.863
+        },
+        {
+          "text": "vermedi",
+          "start": 82.7,
+          "end": 83.44,
+          "confidence": 0.997
+        },
+        {
+          "text": "aman",
+          "start": 83.44,
+          "end": 83.96,
+          "confidence": 0.875
+        }
+      ]
+    },
+    {
+      "text": "Güç yordun teselliler yalan",
+      "start": 84.16,
+      "end": 86.54,
+      "confidence": 0.818,
+      "words": [
+        {
+          "text": "Güç",
+          "start": 84.16,
+          "end": 84.68,
+          "confidence": 0.924
+        },
+        {
+          "text": "yordun",
+          "start": 84.68,
+          "end": 85.22,
+          "confidence": 0.648
+        },
+        {
+          "text": "teselliler",
+          "start": 85.22,
+          "end": 86.08,
+          "confidence": 0.833
+        },
+        {
+          "text": "yalan",
+          "start": 86.08,
+          "end": 86.54,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "text": "Ben büyütmek istesem de onlar küçük kalmak ister",
+      "start": 86.6,
+      "end": 90.48,
+      "confidence": 0.915,
+      "words": [
+        {
+          "text": "Ben",
+          "start": 86.6,
+          "end": 87.06,
+          "confidence": 0.999
+        },
+        {
+          "text": "büyütmek",
+          "start": 87.06,
+          "end": 87.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "istesem",
+          "start": 87.78,
+          "end": 88.38,
+          "confidence": 0.999
+        },
+        {
+          "text": "de",
+          "start": 88.38,
+          "end": 88.58,
+          "confidence": 0.998
+        },
+        {
+          "text": "onlar",
+          "start": 88.58,
+          "end": 89.0,
+          "confidence": 0.629
+        },
+        {
+          "text": "küçük",
+          "start": 89.0,
+          "end": 89.46000000000001,
+          "confidence": 0.528
+        },
+        {
+          "text": "kalmak",
+          "start": 89.46000000000001,
+          "end": 90.14,
+          "confidence": 0.996
+        },
+        {
+          "text": "ister",
+          "start": 90.14,
+          "end": 90.48,
+          "confidence": 0.963
+        }
+      ]
+    },
+    {
+      "text": "Gözümdeyim daha",
+      "start": 90.52,
+      "end": 91.74,
+      "confidence": 0.969,
+      "words": [
+        {
+          "text": "Gözümdeyim",
+          "start": 90.52,
+          "end": 91.48,
+          "confidence": 0.98
+        },
+        {
+          "text": "daha",
+          "start": 91.48,
+          "end": 91.74,
+          "confidence": 0.918
+        }
+      ]
+    },
+    {
+      "text": "Gel beni kurtar",
+      "start": 93.14,
+      "end": 94.12,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "Gel",
+          "start": 93.14,
+          "end": 93.36,
+          "confidence": 0.996
+        },
+        {
+          "text": "beni",
+          "start": 93.36,
+          "end": 93.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "kurtar",
+          "start": 93.66,
+          "end": 94.12,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "text": "Yana yana sevdik bazen çok kez unutulup gidenin ardından",
+      "start": 100.0,
+      "end": 107.86,
+      "confidence": 0.894,
+      "words": [
+        {
+          "text": "Yana",
+          "start": 100.0,
+          "end": 101.0,
+          "confidence": 0.646
+        },
+        {
+          "text": "yana",
+          "start": 101.0,
+          "end": 102.18,
+          "confidence": 0.992
+        },
+        {
+          "text": "sevdik",
+          "start": 102.18,
+          "end": 103.0,
+          "confidence": 0.991
+        },
+        {
+          "text": "bazen",
+          "start": 103.0,
+          "end": 103.66,
+          "confidence": 0.999
+        },
+        {
+          "text": "çok",
+          "start": 103.66,
+          "end": 103.98,
+          "confidence": 0.4
+        },
+        {
+          "text": "kez",
+          "start": 103.98,
+          "end": 104.64,
+          "confidence": 0.991
+        },
+        {
+          "text": "unutulup",
+          "start": 104.64,
+          "end": 105.94,
+          "confidence": 0.971
+        },
+        {
+          "text": "gidenin",
+          "start": 105.94,
+          "end": 106.88,
+          "confidence": 0.904
+        },
+        {
+          "text": "ardından",
+          "start": 106.88,
+          "end": 107.86,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "text": "Kar olan bir kul varsa sözüne güven beni anla",
+      "start": 109.06,
+      "end": 114.74,
+      "confidence": 0.892,
+      "words": [
+        {
+          "text": "Kar",
+          "start": 109.06,
+          "end": 109.08,
+          "confidence": 0.858
+        },
+        {
+          "text": "olan",
+          "start": 109.08,
+          "end": 109.6,
+          "confidence": 0.956
+        },
+        {
+          "text": "bir",
+          "start": 109.6,
+          "end": 109.84,
+          "confidence": 0.995
+        },
+        {
+          "text": "kul",
+          "start": 109.84,
+          "end": 110.3,
+          "confidence": 0.637
+        },
+        {
+          "text": "varsa",
+          "start": 110.3,
+          "end": 111.2,
+          "confidence": 0.986
+        },
+        {
+          "text": "sözüne",
+          "start": 111.2,
+          "end": 112.38,
+          "confidence": 0.85
+        },
+        {
+          "text": "güven",
+          "start": 112.38,
+          "end": 113.2,
+          "confidence": 0.999
+        },
+        {
+          "text": "beni",
+          "start": 113.2,
+          "end": 114.06,
+          "confidence": 0.93
+        },
+        {
+          "text": "anla",
+          "start": 114.06,
+          "end": 114.74,
+          "confidence": 0.862
+        }
+      ]
+    },
+    {
+      "text": "Bozduksa ruhun zaten bana yazık olur",
+      "start": 116.26,
+      "end": 120.24,
+      "confidence": 0.885,
+      "words": [
+        {
+          "text": "Bozduksa",
+          "start": 116.26,
+          "end": 117.2,
+          "confidence": 0.788
+        },
+        {
+          "text": "ruhun",
+          "start": 117.2,
+          "end": 118.02,
+          "confidence": 0.873
+        },
+        {
+          "text": "zaten",
+          "start": 118.02,
+          "end": 118.36,
+          "confidence": 0.999
+        },
+        {
+          "text": "bana",
+          "start": 118.36,
+          "end": 118.98,
+          "confidence": 0.998
+        },
+        {
+          "text": "yazık",
+          "start": 118.98,
+          "end": 119.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "olur",
+          "start": 119.76,
+          "end": 120.24,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "text": "Yanına yanına sevdik bazen çok kez unutulur",
+      "start": 120.36,
+      "end": 125.0,
+      "confidence": 0.853,
+      "words": [
+        {
+          "text": "Yanına",
+          "start": 120.36,
+          "end": 120.96000000000001,
+          "confidence": 0.503
+        },
+        {
+          "text": "yanına",
+          "start": 120.96000000000001,
+          "end": 121.53999999999999,
+          "confidence": 0.793
+        },
+        {
+          "text": "sevdik",
+          "start": 121.53999999999999,
+          "end": 122.2,
+          "confidence": 0.998
+        },
+        {
+          "text": "bazen",
+          "start": 122.2,
+          "end": 122.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "çok",
+          "start": 122.92,
+          "end": 123.16,
+          "confidence": 0.973
+        },
+        {
+          "text": "kez",
+          "start": 123.16,
+          "end": 123.84,
+          "confidence": 0.993
+        },
+        {
+          "text": "unutulur",
+          "start": 123.84,
+          "end": 125.0,
+          "confidence": 0.847
+        }
+      ]
+    },
+    {
+      "text": "Gidenin ardından hep kar olan bir kul",
+      "start": 125.13,
+      "end": 129.42,
+      "confidence": 0.933,
+      "words": [
+        {
+          "text": "Gidenin",
+          "start": 125.13,
+          "end": 126.04,
+          "confidence": 0.822
+        },
+        {
+          "text": "ardından",
+          "start": 126.04,
+          "end": 127.06,
+          "confidence": 0.985
+        },
+        {
+          "text": "hep",
+          "start": 127.06,
+          "end": 127.62,
+          "confidence": 0.99
+        },
+        {
+          "text": "kar",
+          "start": 127.62,
+          "end": 128.32,
+          "confidence": 0.988
+        },
+        {
+          "text": "olan",
+          "start": 128.32,
+          "end": 128.78,
+          "confidence": 0.994
+        },
+        {
+          "text": "bir",
+          "start": 128.78,
+          "end": 129.06,
+          "confidence": 0.991
+        },
+        {
+          "text": "kul",
+          "start": 129.06,
+          "end": 129.42,
+          "confidence": 0.964
+        }
+      ]
+    },
+    {
+      "text": "Varsa sözüme güven beni anla ne olur",
+      "start": 130.0,
+      "end": 134.86,
+      "confidence": 0.959,
+      "words": [
+        {
+          "text": "Varsa",
+          "start": 130.0,
+          "end": 130.6,
+          "confidence": 0.998
+        },
+        {
+          "text": "sözüme",
+          "start": 130.6,
+          "end": 131.58,
+          "confidence": 0.985
+        },
+        {
+          "text": "güven",
+          "start": 131.58,
+          "end": 132.4,
+          "confidence": 0.999
+        },
+        {
+          "text": "beni",
+          "start": 132.4,
+          "end": 133.26,
+          "confidence": 0.902
+        },
+        {
+          "text": "anla",
+          "start": 133.26,
+          "end": 134.1,
+          "confidence": 0.972
+        },
+        {
+          "text": "ne",
+          "start": 134.1,
+          "end": 134.36,
+          "confidence": 0.753
+        },
+        {
+          "text": "olur",
+          "start": 134.36,
+          "end": 134.86,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "text": "Bozuksa ruhun zaten bana yazık olur",
+      "start": 135.46,
+      "end": 139.44,
+      "confidence": 0.9,
+      "words": [
+        {
+          "text": "Bozuksa",
+          "start": 135.46,
+          "end": 136.26,
+          "confidence": 0.757
+        },
+        {
+          "text": "ruhun",
+          "start": 136.26,
+          "end": 137.22,
+          "confidence": 0.917
+        },
+        {
+          "text": "zaten",
+          "start": 137.22,
+          "end": 137.6,
+          "confidence": 0.97
+        },
+        {
+          "text": "bana",
+          "start": 137.6,
+          "end": 138.18,
+          "confidence": 0.992
+        },
+        {
+          "text": "yazık",
+          "start": 138.18,
+          "end": 138.98,
+          "confidence": 0.995
+        },
+        {
+          "text": "olur",
+          "start": 138.98,
+          "end": 139.44,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "text": "Yazık olur",
+      "start": 140.0,
+      "end": 141.82,
+      "confidence": 0.999,
+      "words": [
+        {
+          "text": "Yazık",
+          "start": 140.7,
+          "end": 141.38,
+          "confidence": 0.999
+        },
+        {
+          "text": "olur",
+          "start": 141.38,
+          "end": 141.82,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "text": "Altyazı M.K.",
+      "start": 150.0,
+      "end": 162.0,
+      "confidence": 0.862,
+      "words": [
+        {
+          "text": "Altyazı",
+          "start": 150.0,
+          "end": 161.5,
+          "confidence": 0.772
+        },
+        {
+          "text": "M.K.",
+          "start": 161.5,
+          "end": 162.0,
+          "confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "processing_method": "chunked",
+  "model_size": "large-v3",
+  "chunk_count": 17
+}
